@@ -43,7 +43,7 @@ Personas    10
 
 
 
-ለመገምገም:ሜትርent መስፈርት https://drive.google.com/open?id=0Bx8SZimJ6aqaYV9qc2o1YWd1Ym8
+ለመገምገም:ሜትርent መስፈርት
 
 
 
