@@ -1,9 +1,11 @@
-<h1>&#x1F3F3;&ensp;Project Proposal&ensp;&#x1F3F3;</h1>
+<h1 align="center">&#x1F3F3;&ensp;Project Proposal&ensp;&#x1F3F3;</h1>
 <!-- Yes, markdown is good, but markup (hypertext markup) is better ;) -->
 <strong><i style="color: red;">Project:</i>&ensp;&#x1F496;&#x1F49B;&#x1F499; Moonlight &#x1F499;&#x1F49B;&#x1F496;</strong><br>
 <strong><i>Team:</i>&ensp;&#x1F449;&#x1F449;&ensp;Ibis&ensp;&#x1F448;&#x1F448;	</strong><br>
 <strong><i>Course:</i>&#x1F31F;&ensp;DECO3500 Social & Mobile Computing&ensp;&#x1F31F;</strong><br>
 <br>
+<input type="check"></input>
+<ins align="center">
 <table>
 <tr>
 <th colspan="2">Team Members</th>
@@ -17,7 +19,7 @@
 <tr><td>Liam Daly Manocchio</td><td>4390545</td></tr>
 <tr><td>Sean Mackenzie</td><td>4355285</td></tr>
 <tr><td>Luke Giuseppin</td><td>4266448</td></tr>
-</table>
+</table></ins>
 <hr>
 <h2>Introduction &#x1F415;&#x1F415;&#x1F415;</h2>
 Moonlight is a location based assistance application with the intention of solving the fundamental issues associated with receiving help from unknown parties and establishing trust. The basic application will allow users to request general assistance, reach out to find others to interact with socially, and receive help in emergency situations. 
