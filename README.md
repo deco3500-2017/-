@@ -2,10 +2,10 @@
 <!-- Yes, markdown is good, but markup (hypertext markup) is better ;) -->
 <strong><i>Due Date:</i> Friday, 1st September 2017</strong>
 <hr>
-<strong><i style="color: red;">Project:</i>&ensp;Moonlight</strong>
-<strong><i>Team:</i>&ensp;Ibis</strong>
-<strong><i>Course:</i>&ensp;DECO3500 Social & Mobile Computing</strong>
-<br><br><br>
+<strong><i style="color: red;">Project:</i>&ensp;Moonlight</strong><br>
+<strong><i>Team:</i>&ensp;Ibis</strong><br>
+<strong><i>Course:</i>&ensp;DECO3500 Social & Mobile Computing</strong><br>
+<br>
 <table>
 <tr>
 <th colspan="2">Team Members</th>
