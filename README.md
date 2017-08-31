@@ -67,7 +67,7 @@ The audience for the Moonlight app is wide, targeting all technologically active
 
 Research into defining are more precise demographic will assist in understanding the users better. The focused user base can fall within a range of areas from early 20’s sociable females to mid 30’s apartment residents who needs assistance. Research into how users would use this assistance application can help determine the direction of development.
 
-Differences from other offerings
+<h3>Differences from other offerings</h3>
 Our app separates itself from other similar applications in several ways. Firstly, one of our app’s main focuses is to cultivate a sense of security and comfort in our users. We would like to connect those who feel unsafe or alone with others who are able to provide assistance and comfort those users. This specific tailoring of our application to safety should facilitate the development of trust.
 
 In addition, our application also focuses on sense of community, with emphasis placed on maintaining connections after interacting through Moonlight. Other assistance applications being transactional do not directly facilitate the building of more integrated communities. Our application also offers social requests, directly supporting reaching out to people, which is a unique feature in the assistance application market. 
