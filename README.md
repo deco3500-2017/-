@@ -1,8 +1,17 @@
 <h1 align="center">&#x1F3F3;&ensp;Project Proposal&ensp;&#x1F3F3;</h1>
+<p align="center">
+<img src="https://raw.githubusercontent.com/deco3500-2017/_/master/T4F6E28DA-U4HP28HB8-f6c7da0c3fbb-512.png"></img>
+<img src="https://raw.githubusercontent.com/deco3500-2017/_/master/T4F6E28DA-U4HP28HB8-f6c7da0c3fbb-512.png"></img>
+<img src="https://raw.githubusercontent.com/deco3500-2017/_/master/T4F6E28DA-U4HP28HB8-f6c7da0c3fbb-512.png"></img>
+<img src="https://raw.githubusercontent.com/deco3500-2017/_/master/T4F6E28DA-U4HP28HB8-f6c7da0c3fbb-512.png"></img>
+<img src="https://raw.githubusercontent.com/deco3500-2017/_/master/T4F6E28DA-U4HP28HB8-f6c7da0c3fbb-512.png"></img>
+<img src="https://raw.githubusercontent.com/deco3500-2017/_/master/T4F6E28DA-U4HP28HB8-f6c7da0c3fbb-512.png"></img>
+</p>
+<hr>
 <!-- Yes, markdown is good, but markup (hypertext markup) is better ;) -->
 <strong><i style="color: red;">Project:</i>&ensp;&#x1F496;&#x1F49B;&#x1F499; Moonlight &#x1F499;&#x1F49B;&#x1F496;</strong><br>
 <strong><i>Team:</i>&ensp;&#x1F449;&#x1F449;&ensp;Ibis&ensp;&#x1F448;&#x1F448;	</strong><br>
-<strong><i>Course:</i>&#x1F31F;&ensp;DECO3500 Social & Mobile Computing&ensp;&#x1F31F;</strong><br>
+<strong><i>Course:</i>&ensp;&#x1F31F;&ensp;DECO3500 Social & Mobile Computing&ensp;&#x1F31F;</strong><br>
 <br>
 <input type="check"></input>
 <ins align="center">
