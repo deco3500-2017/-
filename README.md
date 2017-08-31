@@ -234,6 +234,39 @@ I am very proud of being the best at the things that I do and I’ve always been
 Frank completes a large piece of assessment and finds that he is some new spare time to spend. He has become increasingly interested in programming recently and is interested to develop his skills in this field. He searches around campus for someone that might be able to help him, but is unable to afford any of the private tutors that he finds. He resolves to using online courses to self-teach himself Java. He spends a few hours trying to understand the fundamentals, but struggles as he is unable to comprehend the fundamental theories required. Frank becomes frustrated at his lack of progress and gives up.
 
 
+<h3>James</h3>
+<i>“I believe what goes around, comes around.”</i><br>
+<table>
+<tr>
+<td colspan="2"><img src="https://randomuser.me/api/portraits/men/0.jpg"></img></td>
+<td colspan="2">
+Age: 43<br>
+Education: PhD in History<br>
+Location: UQ St Lucia<br>
+Occupation: Associate Lecturer</td>
+</tr>
+<tr>
+<th>Generous</th><th>Superstitious</th><th>Inquisitive</th><th>Kind</th>
+</tr>
+</table>
+
+<h4>Personality Traits & History</h4>
+I have been an associate lecturer at UQ for two years now and thoroughly enjoy my job. I love the feeling of helping others, which is a reason why I chose to become a lecturer. I think it is very important for students to have good teachers and role models for them to learn from. Beyond just educating students, I believe I can be their friend too, and in this way help them to achieve even greater things.
+My work and family life keep my very busy, but I do wish I had more time to volunteer at local sports clubs and charity organisations. I grew up in a big family and this sense of community is very important to me.
+
+
+<h4>Goals</h4>
+-       I want to connect with my students and truly impassion them to learn.<br>
+-       I want to be a part of a greater community.<br>
+
+<h4>Pains</h4>
+-       I find it difficult to help strangers out in public, since most people aren’t willing to ask for help.<br>
+-       My busy schedule working at university means that I can’t commit to helping people out on a regular basis.<br>
+
+<h4>Scenario</h4>
+James spends much of the day meeting with his other faculty lecturers and researching his own papers. He looks forward to his afternoon lecture on the Early Roman Republic and tries his best to make the lecture engaging for the students. After the lecture is finished, most of the students leave class quickly. Often students will linger to ask some questions relating to coursework but James finds these brief encounters to be unfulfilling. He wishes he could talk to his students as another person, rather than just to discuss their upcoming assessment. Once these students soon leave, James returns to his office and prepares to go home where he can spend some time with his family.
+
+
 <h2>Tags &#x1F425;&#x1F425;&#x1F425;</h2>
 &#x0023;helpme &#x0023;lightson &#x0023;imhere &#x0023;hewillnotdivideus &#x0023;haloce 
 
