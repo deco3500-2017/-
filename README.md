@@ -117,7 +117,7 @@ Construction will also occur iteratively, with regular reviews being conducted t
 It is intended that a partially complete solution will be implemented by the end of the project. This would qualify as any key component of the application such as the general assistance or social interface being implemented.
 
 <h3>Milestones and dependents</h3>
-<b>2017-09-04    Initial system mockups complete</b>
+<b>2017-09-04    Initial system mockups complete</b><br>
 
 <i>Requirements / Dependents:</i><br>
 Balsamiq Mockups will be used for initial mockups.<br><br>
