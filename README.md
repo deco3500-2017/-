@@ -172,7 +172,7 @@ Finally, the requirement that the trustor expects the trustee to have a certain 
 
 <h2>Personas &#x1F40F;&#x1F40F;&#x1F40F;</h2>
 <h3>Alice</h3>
-<i align="center">“I’d just like to feel a little safer when I have to walk to my car after a late-night lecture.”</i><br>
+<i>“I’d just like to feel a little safer when I have to walk to my car after a late-night lecture.”</i><br><br>
 <table>
 <tr>
 <td colspan="2"><img src="https://randomuser.me/api/portraits/women/31.jpg"></img></td>
@@ -191,17 +191,47 @@ Occupation: Part-time sales assistant at Myers.</td>
 As a university student, my studies are my priority. I tend to go to all my classes so I can get good grades, but this sometimes means I must stay at the university late for some lectures. I always sit by myself in class because I want to focus on my studies and not get distracted. I drive my car to university because it saves me time to help balance my work with my study. I have some friends at work, but not many at university.
 
 <h4>Goals</h4>
--       Be able to attend all my classes so that I can get the grades I want.
--       Maintain a healthy balance between my work and my studies
--       Meet some new friends on campus
+-       Be able to attend all my classes so that I can get the grades I want.<br>
+-       Maintain a healthy balance between my work and my studies<br>
+-       Meet some new friends on campus<br>
 
 <h4>Pains</h4>
--       I don’t know anyone that stays on campus as late as me.
+-       I don’t know anyone that stays on campus as late as me.<br>
 -       It’s difficult for me to find new friends who share the same interests at my university.
 
 <h4>Scenario</h4>
-Alice finishes her afternoon tutorials and heads to the library to study. At 6pm she gos to her lecture where she sits alone and focuses on the lecture content. After the lecture is finished Alice walks back to her car to travel home. Her car is parked on the far side of campus and so she has to walk a long distance in the dark. Alice has always been uncomfortable being alone and outside at night, and so she shies away from any other individuals who cross her path. Her late-night trek to her car is one of the worst parts of her week. Once she finally reaches her car, she gets inside and feels a sense of relief.­­
+Alice finishes her afternoon tutorials and heads to the library to study. At 6pm she gos to her lecture where she sits alone and focuses on the lecture content. After the lecture is finished Alice walks back to her car to travel home. Her car is parked on the far side of campus and so she has to walk a long distance in the dark. Alice has always been uncomfortable being alone and outside at night, and so she shies away from any other individuals who cross her path. Her late-night trek to her car is one of the worst parts of her week. Once she finally reaches her car, she gets inside and feels a sense of relief.
 
+<h3>Frank</h3>
+<i>“I want to be the very best that I can be, like no one ever was, and I’m willing to accept that I need help to do that. Finding it is my real test.”</i><br>
+<table>
+<tr>
+<td colspan="2"><img src="https://randomuser.me/api/portraits/men/85.jpg"></img></td>
+<td colspan="2">
+Age: 22<br>
+Education: Postgraduate university student <br>
+Location: UQ St Lucia<br>
+Occupation: None</td>
+</tr>
+<tr>
+<th>Perfectionist</th><th>Serious</th><th>Curious</th><th>Competitive</th>
+</tr>
+</table>
+
+<h4>Personality Traits & History</h4>
+I am very proud of being the best at the things that I do and I’ve always been very competitive. I first started studying at UQ three years ago, and all that time I have committed to being the best I can be. This includes eating healthy, exercising regularly, and learning new skills. Recently I have been interested in learning technical skills and have self-taught myself web design coding languages. I am looking to step my game up to the next level and this involves learning some more advanced programming languages. It is for my own benefit that I find a good teacher to help me learn has effectively as possible.
+
+<h4>Goals</h4>
+-       Learn new and advanced skills that will help me to improve myself as a person.<br>
+-       Find the someone that can mentor me for free.<br>
+
+<h4>Pains</h4>
+-       I often get bored when I am not being challenged.<br>
+-       I find it difficult to find a mentor that has the right skills for what I’m interested in.<br>
+-       It is too expensive for me to pay for a private tutor.
+
+<h4>Scenario</h4>
+Frank completes a large piece of assessment and finds that he is some new spare time to spend. He has become increasingly interested in programming recently and is interested to develop his skills in this field. He searches around campus for someone that might be able to help him, but is unable to afford any of the private tutors that he finds. He resolves to using online courses to self-teach himself Java. He spends a few hours trying to understand the fundamentals, but struggles as he is unable to comprehend the fundamental theories required. Frank becomes frustrated at his lack of progress and gives up.
 
 
 <h2>Tags &#x1F425;&#x1F425;&#x1F425;</h2>
