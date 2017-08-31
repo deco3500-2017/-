@@ -33,6 +33,10 @@ The primary differentiating function of Moonlight is the trust mark and connecti
 The second differentiating component of Moonlight is the connections system. This allows helpers and helpees to connect again if they felt a connection, in a social or professional capacity. This promotes better communities, and research has shown giving and receiving help can aid in the establishment of trust. This provides a novel means of establishing networks, and adds motivation to using the application as a helper. 
 <h2>Concept &#x1F410;&#x1F410;&#x1F410;</h2>
 <h2>Team &#x1F984;&#x1F984;&#x1F984;</h2>
-
+<h2>Plan &#x1F408;&#x1F408;&#x1F408;</h2>
+<h2>Building and Establishing Trust &#x1F416;&#x1F416;&#x1F416;</h2>
+<h2>Personas &#x1F40F;&#x1F40F;&#x1F40F;</h2>
+<h2>Tags &#x1F425;&#x1F425;&#x1F425;</h2>
+<h2>References &#x1F428;&#x1F428;&#x1F428;</h2>
 
 
