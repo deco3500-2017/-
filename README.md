@@ -65,7 +65,6 @@ Finally, once trust has been established between users and the app, and users wi
 <h3>Audience</h3>
 The audience for the Moonlight app is wide, targeting all technologically active persons. Due to the nature of mobile application use, it is expected a large subset of the user base will consist of 18-30 year olds. In addition, to aid with scoping the application, it will initially be targeted at Australian undergraduate university students, although this target could easily be expanded. Moonlight aims to create more cohesive, helpful communities and therefore the larger and more diverse the user base, the better level of support it can offer.
 
-
 Research into defining are more precise demographic will assist in understanding the users better. The focused user base can fall within a range of areas from early 20’s sociable females to mid 30’s apartment residents who needs assistance. Research into how users would use this assistance application can help determine the direction of development.
 
 <h3>Differences from other offerings</h3>
