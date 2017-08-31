@@ -1,8 +1,8 @@
-<h1>&#x1F31F;&#x1F31F;&#x1F31F;&ensp;Project Proposal&ensp;&#x1F31F;&#x1F31F;&#x1F31F;</h1>
+<h1>&#x1F3F3;&ensp;Project Proposal&ensp;&#x1F3F3;</h1>
 <!-- Yes, markdown is good, but markup (hypertext markup) is better ;) -->
 <strong><i style="color: red;">Project:</i>&ensp;&#x1F496;&#x1F49B;&#x1F499; Moonlight &#x1F499;&#x1F49B;&#x1F496;</strong><br>
 <strong><i>Team:</i>&ensp;&#x1F449;&#x1F449;&ensp;Ibis&ensp;&#x1F448;&#x1F448;	</strong><br>
-<strong><i>Course:</i>&ensp;DECO3500 Social & Mobile Computing</strong><br>
+<strong><i>Course:</i>&#x1F31F;&ensp;DECO3500 Social & Mobile Computing&ensp;&#x1F31F;</strong><br>
 <br>
 <table>
 <tr>
