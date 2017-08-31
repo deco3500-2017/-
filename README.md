@@ -19,7 +19,7 @@
 <tr><td>Luke Giuseppin</td><td>4266448</td></tr>
 </table>
 <hr>
-<h2>Introduction</h2>
+<h2>Introduction &#x1F415;&#x1F415;&#x1F415;</h2>
 Moonlight is a location based assistance application with the intention of solving the fundamental issues associated with receiving help from unknown parties and establishing trust. The basic application will allow users to request general assistance, reach out to find others to interact with socially, and receive help in emergency situations. 
 
 The primary dilemma addressed by the application is how to establish a sense of community with others in your area. The app will seek to create and nurture mutually beneficial relationships with these people, without prior establishment of trust.
