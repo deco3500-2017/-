@@ -1,6 +1,6 @@
 <h1>&#x1F31F;&#x1F31F;&#x1F31F;&ensp;Project Proposal&ensp;&#x1F31F;&#x1F31F;&#x1F31F;</h1>
 <!-- Yes, markdown is good, but markup (hypertext markup) is better ;) -->
-<strong><i style="color: red;">Project:</i>&ensp;&#x1F49A;&#x1F49B;&#x1F499; Moonlight &#x1F499;&#x1F49B;&#x1F49A;</strong><br>
+<strong><i style="color: red;">Project:</i>&ensp;&#x1F496;&#x1F49B;&#x1F499; Moonlight &#x1F499;&#x1F49B;&#x1F496;</strong><br>
 <strong><i>Team:</i>&ensp;&#x1F449;&#x1F449;&ensp;Ibis&ensp;&#x1F448;&#x1F448;	</strong><br>
 <strong><i>Course:</i>&ensp;DECO3500 Social & Mobile Computing</strong><br>
 <br>
@@ -31,6 +31,8 @@ Existing applications with the intent of providing assistance such as Airtasker,
 The primary differentiating function of Moonlight is the trust mark and connections components. The trust mark allows users of the application to verify, and be verified by other users as trustworthy. A rating system after each encounter will ensure only trustworthy people maintain their trust mark. 
 
 The second differentiating component of Moonlight is the connections system. This allows helpers and helpees to connect again if they felt a connection, in a social or professional capacity. This promotes better communities, and research has shown giving and receiving help can aid in the establishment of trust. This provides a novel means of establishing networks, and adds motivation to using the application as a helper. 
+<h2>Concept &#x1F410;&#x1F410;&#x1F410;</h2>
+<h2>Team &#x1F984;&#x1F984;&#x1F984;</h2>
 
 
 
