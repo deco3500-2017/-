@@ -78,11 +78,17 @@ Finally, many other assistance applications cater to paid service providers, and
 <h3>Key Roles</h3>
 Research will be conducted in collaboration with all team members, who will also collaborate on the analysis of collected information. 
 
-Liam - Backend development, control design
-Craig - Frontend development
-Matt - Experience design and functionality integration
-Luke - Interaction design and functionality integration
-Sean - Content creation
+<table>
+<tr>
+<th>Name</th>
+<th>Role</th>
+</tr>
+<tr><td>Matthew</td><td>Experience design and functionality integration</td></tr>
+<tr><td>Craig</td><td>Frontend development</td></tr>
+<tr><td>Liam</td><td>Backend development, control design</td></tr>
+<tr><td>Sean</td><td>Content creation</td></tr>
+<tr><td>Luke</td><td>Interaction design and functionality integration</td></tr>
+</table>
 
 While team members will have a primary role, there will be collaboration on all aspects of the project, so that no one member is entirely responsible for any particular component, and feedback can be given at every stage of development. Logistics needs will be filled by whichever team members are best suited at that time to provide them. 
 
@@ -99,7 +105,11 @@ Decision making that will affect the higher level direction of the group will be
 Implementation specific decisions will be made by the team member that is working on the relevant aspect of the implementation, with discussion and questions raised if the team member feels they need clarification, or assistance before making that choice.
 
 <h3>Poor performance and conflict resolution</h3>
-In the event that a team member is not making their contribution to the group in full, or is otherwise causing conflict in the team, through verbal, textual or other mediums, then the other team members will first talk to the team member, and attempt to show them that they need to improve their performance, or stop their activities that are causing conflict. If this fails to stop the  team member from causing conflict, or shirking their responsibilities to the team, then the next step is to sit the team member down, during a meeting and attempt to show them that they are not performing to an acceptable standard. If the team member continues to have poor performance, or causes conflict, then escalation might be required in the form of informing a tutor, or the lecturer.
+In the event that a team member is not making their contribution to the group in full, or is otherwise causing conflict in the team, through verbal, textual or other mediums, then the other team members will first talk to the team member, and attempt to show them that they need to improve their performance, or stop their activities that are causing conflict. 
+
+If this fails to stop the team member from causing conflict, or shirking their responsibilities to the team, then the next step is to sit the team member down, during a meeting and attempt to show them that they are not performing to an acceptable standard. 
+
+If the team member continues to have poor performance, or causes conflict, then escalation might be required in the form of informing a tutor, or the lecturer.
 
 
 <h2>Plan &#x1F408;&#x1F408;&#x1F408;</h2>
