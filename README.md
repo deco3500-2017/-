@@ -301,7 +301,7 @@ Katherine spends the day working on her research project. In the early afternoon
 
 
 <h2>Tags &#x1F425;&#x1F425;&#x1F425;</h2>
-#helpme #lightson #imhere #hewillnotdivideus #haloce 
+#socialsoftware #socialmoments #persuasivecomputing #contextual #spaceandshape
 
 <h2>References &#x1F428;&#x1F428;&#x1F428;</h2>
 
