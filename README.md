@@ -117,24 +117,21 @@ Construction will also occur iteratively, with regular reviews being conducted t
 It is intended that a partially complete solution will be implemented by the end of the project. This would qualify as any key component of the application such as the general assistance or social interface being implemented.
 
 <h3>Milestones and dependents</h3>
-<b>2017-09-04    Initial system mockups complete</b><br>
 
+<b>2017-09-04    Initial system mockups complete</b><br>
 <i>Requirements / Dependents:</i><br>
 Balsamiq Mockups will be used for initial mockups.<br><br>
 
-<b>2017-09-11    Initial interview collection and analysis complete, prototype based testing starting</b>
-
+<b>2017-09-11    Initial interview collection and analysis complete, prototype based testing starting</b><br>
 <i>Requirements / Dependents:</i><br>
 Mockup completed, mockups will support basic interactive prototype driven testing
 Interviews and user testing will be completed on campus.<br><br>
 
-<b>2017-09-25    First iteration of design & wireframe finalised, development of solution starts</b>
-
+<b>2017-09-25    First iteration of design & wireframe finalised, development of solution starts</b><br>
 <i>Requirements / Dependents:</i><br>
 Several tools may be used for wireframing, with Balsamiq serving as a starting point for development of wireframes.<br><br>
 
-<b>2017-10-04    First iteration of system development and testing completed</b>
-
+<b>2017-10-04    First iteration of system development and testing completed</b><br>
 <i>Requirements / Dependents:</i><br>
 Will be built using C# and Microsoft Xamarin.
 Interviews and user testing will be completed on campus.<br><br>
