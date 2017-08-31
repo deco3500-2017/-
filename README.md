@@ -301,7 +301,7 @@ Katherine spends the day working on her research project. In the early afternoon
 
 
 <h2>Tags &#x1F425;&#x1F425;&#x1F425;</h2>
-&#x0023;helpme &#x0023;lightson &#x0023;imhere &#x0023;hewillnotdivideus &#x0023;haloce 
+#helpme #lightson #imhere #hewillnotdivideus #haloce 
 
 <h2>References &#x1F428;&#x1F428;&#x1F428;</h2>
 
