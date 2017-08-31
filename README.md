@@ -266,6 +266,39 @@ My work and family life keep my very busy, but I do wish I had more time to volu
 <h4>Scenario</h4>
 James spends much of the day meeting with his other faculty lecturers and researching his own papers. He looks forward to his afternoon lecture on the Early Roman Republic and tries his best to make the lecture engaging for the students. After the lecture is finished, most of the students leave class quickly. Often students will linger to ask some questions relating to coursework but James finds these brief encounters to be unfulfilling. He wishes he could talk to his students as another person, rather than just to discuss their upcoming assessment. Once these students soon leave, James returns to his office and prepares to go home where he can spend some time with his family.
 
+<h3>Katherine</h3>
+<i>“I’ve always enjoyed teaching and I don’t mind taking extra time to help those that want to learn.”</i><br>
+<table>
+<tr>
+<td colspan="2"><img src="https://randomuser.me/api/portraits/women/40.jpg"></img></td>
+<td colspan="2">
+Age: 29<br>
+Education: Masters in Software Engineering<br>
+Location: UQ St Lucia<br>
+Occupation: Unit Tester & Tutor</td>
+</tr>
+<tr>
+<th>Attentive</th><th>Generous</th><th>Persistent</th><th>Ambitious</th>
+</tr>
+</table>
+
+<h4>Personality Traits & History</h4>
+I’ve been a tutor at UQ for a few years now while I complete my PhD. I enjoy tutoring because I enjoy coding and am passionate about sharing my skills with less experienced people.
+
+I am looking forward to a further career in tech, and am very driven to succeed in that field once I complete my studies. This is a part of the reason why I take extra time to tutor at university, so that I have a more competitive CV once I graduate.
+
+<h4>Goals</h4>
+-       Use my expertise to assist students in learning to code, so that I might improve my own understanding of the fundamentals.<br>
+-       Gain experience so I can have a competitive CV when I graduate.<br>
+
+<h4>Pains</h4>
+-       It is difficult to find ways to share my knowledge outside of class hours.<br>
+-       It is difficult for me to find a way to distinguish myself from my colleagues.<br>
+-       I often find that teaching a large number of students<br>
+
+<h4>Scenario</h4>
+Katherine spends the day working on her research project. In the early afternoon, she has two hours of tutorials where she teaches Java to a room of thirty students. These shorts sessions tend to simply be Katherine answering different questions to many different students. She does not feel like she is truly teaching the students anything, and does not feel that she is learning anything from the experience. After class is over the students quickly leave and Katherine has nothing left to do other than head back to her office. Afterwards, she recalls that she found her tutorial unsatisfactory to how she would like to spend her time.
+
 
 <h2>Tags &#x1F425;&#x1F425;&#x1F425;</h2>
 &#x0023;helpme &#x0023;lightson &#x0023;imhere &#x0023;hewillnotdivideus &#x0023;haloce 
