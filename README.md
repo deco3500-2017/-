@@ -1,6 +1,6 @@
 <h1>Project Proposal</h1>
 <!-- Yes, markdown is good, but markup (hypertext markup) is better ;) -->
-<strong><i style="color: red;">Project:</i>&ensp;Moonlight</strong><br>
+<strong><i style="color: red;">Project:</i>&ensp;&#x1F49A;&#x1F49B;&#x1F499; Moonlight &#x1F499;&#x1F49B;&#x1F49A;</strong><br>
 <strong><i>Team:</i>&ensp;Ibis</strong><br>
 <strong><i>Course:</i>&ensp;DECO3500 Social & Mobile Computing</strong><br>
 <br>
