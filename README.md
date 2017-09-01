@@ -313,7 +313,7 @@ Katherine spends the day working on her research project. In the early afternoon
 
 
 <h2>Tags &#x1F425;&#x1F425;&#x1F425;</h2>
-#socialsoftware #socialmoments #persuasivecomputing #contextual #spaceandshape #temporarycommunity #issuebasedcommunity
+#socialsoftware #socialmoments #persuasivecomputing #contextual #spaceandshape #temporarycommunity #issuebasedcommunity #community
 
 <h2>References &#x1F428;&#x1F428;&#x1F428;</h2>
 
