@@ -3,7 +3,7 @@
 <h1>Goals</h1>
 
 
-<h1>MAterials</h1>
+<h1>Materials</h1>
 <h2>Mockups</h2>
 
 <h2>Script</h2>
