@@ -15,8 +15,10 @@
 <h2>Video</h2>
 
 <h2>Observations<h2>
-Reviewed each question
-Asked additional questions for clarification
+<li>
+<ul>Reviewed each question</ul>
+<ul>Asked additional questions for clarification</ul>
+</li>
 
 
 <h1>Pariticipant 2</h1>
@@ -24,16 +26,18 @@ Asked additional questions for clarification
 <h2>Video</h2>
 
 <h2>Observations</h2>
-Issues with understanding and establishing context
-Seemed lost with too many options being displayed at once
-Having needed guidance quite a bit
-Understood the nature of the application
-Liked idea of application but neeeded explanations along the way
+<li>
+<ul>Issues with understanding and establishing context</ul>
+<ul>Seemed lost with too many options being displayed at once</ul>
+<ul>Having needed guidance quite a bit</ul>
+<ul>Understood the nature of the application</ul>
+<ul>Liked idea of application but neeeded explanations along the way</ul>
+</li>
 
 <h1>Results</h1>
-Testing is too large currently with too much content
-Needs to be more defined and segmented
-Focus needed on a feature or precise user journey
+Testing is too large currently with too much content.
+Needs to be more defined and segmented.
+Focus needed on a feature or precise user journey.
 How long does each step take?
 How long does the whole process take?
 What steps are actually required?
