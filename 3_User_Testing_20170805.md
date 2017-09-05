@@ -15,10 +15,10 @@
 <h2>Video</h2>
 
 <h2>Observations</h2>
-<li>
-<ul>Reviewed each question</ul>
-<ul>Asked additional questions for clarification</ul>
-</li>
+<ul>
+<li>Reviewed each question</li>
+<li>Asked additional questions for clarification</li>
+</ul>
 
 
 <h1>Pariticipant 2</h1>
@@ -26,13 +26,13 @@
 <h2>Video</h2>
 
 <h2>Observations</h2>
-<li>
-<ul>Issues with understanding and establishing context</ul>
-<ul>Seemed lost with too many options being displayed at once</ul>
-<ul>Having needed guidance quite a bit</ul>
-<ul>Understood the nature of the application</ul>
-<ul>Liked idea of application but neeeded explanations along the way</ul>
-</li>
+<ul>
+<li>Issues with understanding and establishing context</li>
+<li>Seemed lost with too many options being displayed at once</li>
+<li>Having needed guidance quite a bit</li>
+<li>Understood the nature of the application</li>
+<li>Liked idea of application but neeeded explanations along the way</li>
+</ul>
 
 <h1>Results</h1>
 Testing is too large currently with too much content.
