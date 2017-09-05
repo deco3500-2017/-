@@ -14,7 +14,7 @@
 9:00am, female, GP South Common Area
 <h2>Video</h2>
 
-<h2>Observations<h2>
+<h2>Observations</h2>
 <li>
 <ul>Reviewed each question</ul>
 <ul>Asked additional questions for clarification</ul>
