@@ -46,12 +46,14 @@ When an individual or group was approached there appearred to be a moment of pau
 <ul>
 <li>Heading to class</li>
 <li>Running late</li>
-<li>English skills</li>
+<li>English language skills</li>
 <li>Involved in group conversation</li>
 <li>Studying</li>
 </ul>
 
 Adding to these problems that gave us some insight of helping the interviewers break the ice, 3 males appproaching a single female student asking if they would like to particpate in a survey may of appearred a bit strong, thus putting the potential interview on guard and not wanting to communicate further.
+
+Some aspects that were not considered prior to interviewing was that; what if the person only trust or had faith in themselves? That for some situations they would not but prefer company. Given this insight considerations that would still make features of the application viable for individuals such as this should be considered. Asking ourselves what the is the users intent, and how may they succeed in their goal whether they are a passive or active user.
 
 <h1>References</h1>
 <ol>
