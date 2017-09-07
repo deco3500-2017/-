@@ -20,7 +20,7 @@ Concluding the interview the participant was thanked for their time and the team
 <h3>Script</h3>
 
 <h2>Recruitment</h2>
-The initial interview are conducted by approaching female students at random between 8:00-10:00am Tuesday Morning on the 22nd of September, 2017. This was aimed at a portion of our intended target user base.
+The initial interview are conducted by approaching female students at random between 8:00-10:00am Tuesday Morning on the 22nd of August, 2017. This was aimed at a portion of our intended target user base.
 
 <h2>Participant 1</h2>
 <h3>Audio</h3>
