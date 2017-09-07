@@ -1,19 +1,23 @@
 <h1>Aims</h1>
-Field Intereviews
-Research
-Valuability
-
 Moonlight is an assistant application that allows users to be able to ask for or offer assistance. From furniture moving to requiring somone to walk them to their car.
 
-Our aims within this Initial Interview stage is to look for product valuability from potential users. We have deicded to direct the Moonlight product at 18-30 year sociable females and apartment resides [1]. 
+Our aims within this Initial Interview stage is to look for product viability from potential users. We have deicded to direct the Moonlight product at 18-30 year sociable females and apartment resides <a href="#R1">[1]</a>. This will be conducted through a set series of interview questions to be asked towards the target demographic. 
 
 <h1>Goals</h1>
+At this early stage, the goals can be seen as being fairly simple. The primary concern is viability and looking for insight into whether the concept is necessary. Adding to this is the idea of users being active with such an application and if made available, would it be used. 
+
+Understand what people consider to be trustworthy and how to create trust. This will be difficult to distill and refine as the concept of trust can vastly differ for each individual. By looking in the metrics of what trust is and how other service applications on the markets have already create a credible system of trust, we hope to make people comfortable and confident when using Moonlight.
 
 <h1>Procedure</h1>
+1 interviewer, 1 assistant and 1 observer were to survey an area (in this case UQ St. Lucia Campus) in aims of recruiting participants for this interview. With an unsolicated approach we aim to catch people off guard to help assist in observation of participants demeanor during a random event. 
+
+Once agreeing to the quick interview the interviewer and assistant addressed the scripted questions to the participant while the observer maintained a generous distance to look for body language and gestures that the participant was exhibiting. Audio recordings were also taken at the participants agreement for further use. Notes on visual cues and reactions were taken. 
+
+Concluding the interview the participant was thanked for their time and the team move on.
 <h2>Script</h2>
 
 <h1>Recruitment</h1>
-Female studets 
+The initial interview are conducted by approaching female students at random between 8:00-10:00am Tuesday Morning on the 22nd of September, 2017. This was aimed at a portion of our intended target user base.
 
 <h1>Participant 1</h1>
 <h2>Audio</h2>
@@ -49,5 +53,6 @@ When an individual or group was approached there appearred to be a moment of pau
 
 Adding to these problems that gave us some insight of helping the interviewers break the ice, 3 males appproaching a single female student asking if they would like to particpate in a survey may of appearred a bit strong, thus putting the potential interview on guard and not wanting to communicate further.
 
-References
-[1]"deco3500-2017/-", GitHub, 2017. [Online]. Available: https://github.com/deco3500-2017/-/blob/master/README.md#audience. [Accessed: 07- Sep- 2017].
+<h1>References</h1>
+<ol>
+<li id="R1">"deco3500-2017/-", GitHub, 2017. [Online]. Available: https://github.com/deco3500-2017/-/blob/master/README.md#audience. [Accessed: 07- Sep- 2017].</li>
