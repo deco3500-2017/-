@@ -61,3 +61,4 @@ Some aspects that were not considered prior to interviewing was that; what if th
 <h2>References</h2>
 <ol>
 <li id="R1">"deco3500-2017/-", GitHub, 2017. [Online]. Available: https://github.com/deco3500-2017/-/blob/master/README.md#audience. [Accessed: 07- Sep- 2017].</li>
+</ol>
