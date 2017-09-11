@@ -1,7 +1,7 @@
 <h1>1. Research</h1>
 Uber
 
-AirBnB
+AirBnB - "Airbnb as the mututal friend at a party"
 
 AirTasker
 
