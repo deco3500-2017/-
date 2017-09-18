@@ -1,5 +1,5 @@
 <h1>4. High Fidelity Prototype - 19th of September 2017</h1>
-<a href="ml.rft.io">Link to Hifi Prototype</a>
+<a href="http://ml.rft.io">Link to Hifi Prototype</a>
 
 <h2>Aims</h2>
 
