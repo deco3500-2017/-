@@ -17,7 +17,8 @@
 
 <h2>Participant 1</h2>
 <h3>Person 1: [Alisa - Female - Mid 20s - iPhone 5 or 6]</h3>
-- receptive and eager to help test the app
+<ul>
+<li>receptive and eager to help test the app</li>
 - when sitting in the sun she found it very difficult to see the screen, switched to using a macbook in order to see the screen easier
 - she had an understanding of what user testing was and seemed familiar with the process
 - it was difficult to communicate what the correct URL for the app was
