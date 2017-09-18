@@ -78,7 +78,7 @@ https://www.airtasker.com/how-it-works/
 
 <h2>In-app Currency & Karma</h2>
 <h3>Elo Rating system</h3>
-<a href="https://en.wikipedia.org/wiki/Elo_rating_system"></a>
+<a href="https://en.wikipedia.org/wiki/Elo_rating_system">Wikipedia:Elo Rating</a>
 
 <h2>References</h2>
 
