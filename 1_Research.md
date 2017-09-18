@@ -77,6 +77,8 @@ https://www.airbnb.com.au/standards
 https://www.airtasker.com/how-it-works/
 
 <h2>In-app Currency & Karma</h2>
+<h3>Elo Rating system</h3>
+<a href="https://en.wikipedia.org/wiki/Elo_rating_system"></a>
 
 <h2>References</h2>
 
