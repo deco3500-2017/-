@@ -1,7 +1,5 @@
 <h1>1. Research</h1>
 
-<h2>In-app Currency & Karma</h2>
-
 <h2>Uber</h2>
 <h3>Community Benefits</h3>
 https://www.uber.com/en-AU/safety/
@@ -66,7 +64,10 @@ https://www.airbnb.com.au/trust
 
 <h3>Designing for Trust</h3>
 https://airbnb.design/how-airbnb-designs-for-trust/
- - "Airbnb as the mututal friend at a party"
+ - Focus isn't on users trusting the company, but on trusting each other
+ -"Design" as the mututal friend
+ -AirBnB as a facilitator of social interactions
+ -First impressions are important (more than half of airbnb customers are first time users at any one time)
 
 <h3>Standards and Expectations</h3>
 https://www.airbnb.com.au/standards
@@ -74,6 +75,8 @@ https://www.airbnb.com.au/standards
 <h2>AirTasker</h2>
 <h3>How it Works</h3>
 https://www.airtasker.com/how-it-works/
+
+<h2>In-app Currency & Karma</h2>
 
 <h2>References</h2>
 
