@@ -1,4 +1,7 @@
 <h1>1. Research</h1>
+
+<h2>In-app Currency & Karma</h2>
+
 <h2>Uber</h2>
 <h3>Uber - Community Benefits</h3>
 https://www.uber.com/en-AU/safety/
