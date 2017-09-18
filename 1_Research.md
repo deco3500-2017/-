@@ -3,13 +3,13 @@
 <h2>In-app Currency & Karma</h2>
 
 <h2>Uber</h2>
-<h3>Uber - Community Benefits</h3>
+<h3>Community Benefits</h3>
 https://www.uber.com/en-AU/safety/
 - Uber protects communities: in cities where Uber is present, drunk driving is reduced.
 - Always available 24/7, so they're available in an emergency
 - Uber drivers are all notified in the case of an AMBER alert (child abduction)
 
-<h3>Uber - Driver Safety</h3>
+<h3>Driver Safety</h3>
 https://www.uber.com/en-AU/drive/safety/
 
 Before Trip
@@ -31,7 +31,7 @@ Behind the Scenes
 - GPS location logged for every trip
 - Assisting law enforcement by providing data when necessary
 
-<h3>Uber - Rider Safety</h3>
+<h3>Rider Safety</h3>
 https://www.uber.com/en-AU/ride/safety/
 
 Before the Trip
@@ -44,7 +44,7 @@ After Trip
 - Fares are charged automatically
 - Drivers rate riders after every trip, this ensures high quality of riders
 
-<h3>Uber Community Guidelines</h3>
+<h3>Community Guidelines</h3>
 https://www.uber.com/en-AU/legal/community-guidelines/us-en/
 - Respect each other
 - Give personal space
@@ -55,7 +55,7 @@ https://www.uber.com/en-AU/legal/community-guidelines/us-en/
 Quite an extensive list, worth further investigation.
 
 <h2>AirBnB</h2>
-<h3>AirBnB - Trust</h3>
+<h3>Trust</h3>
 https://www.airbnb.com.au/trust
 - Identification
 - Profiles & Reviews
@@ -64,15 +64,15 @@ https://www.airbnb.com.au/trust
 - Hosts are covered by insurance
 - 24/7 support
 
-<h3>AirBnB - Designing for Trust</h3>
+<h3>Designing for Trust</h3>
 https://airbnb.design/how-airbnb-designs-for-trust/
  - "Airbnb as the mututal friend at a party"
 
-<h3>AirBnB - Standards and Expectations</h3>
+<h3>Standards and Expectations</h3>
 https://www.airbnb.com.au/standards
 
 <h2>AirTasker</h2>
-<h3>AirTasker - How it Works</h3>
+<h3>How it Works</h3>
 https://www.airtasker.com/how-it-works/
 
 <h2>References</h2>
