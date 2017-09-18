@@ -1,19 +1,75 @@
 <h1>1. Research</h1>
-Uber
+<h2>Uber</h2>
+<h3>Uber - Community Benefits</h3>
 https://www.uber.com/en-AU/safety/
+- Uber protects communities: in cities where Uber is present, drunk driving is reduced.
+- Always available 24/7, so they're available in an emergency
+- Uber drivers are all notified in the case of an AMBER alert (child abduction)
 
-AirBnB - "Airbnb as the mututal friend at a party"
+<h3>Uber - Driver Safety</h3>
+https://www.uber.com/en-AU/drive/safety/
+Before Trip
+- Safe pickups: The rider decides where they get picked up and dropped off. This ensures they can stay safe and comfortable.
+- Open to everyone: All requests are blindly matched, this prevents discrimination.
+- Driver profiles: Let's the rider know who is picking them up ahead of time, and allows communication afterwards.
+
+During Trip
+- Share ETA: Allow your friends and family to follow your route to stay safe.
+- Map is always on: Follow trip in real time, so you always know where you are.
+
+After Trip
+- Anonymous Feedback: Rate driver after the trip
+- 24/7 Support
+- Rapid response: specially trained "incident response teams"
+
+Behind the Scenes
+- Uber anonymizes personal contact information until it is needed
+- GPS location logged for every trip
+- Assisting law enforcement by providing data when necessary
+
+<h3>Uber - Rider Safety</h3>
+https://www.uber.com/en-AU/ride/safety/
+
+Before the Trip
+- No anonymous pickups, everyone has a profile
+
+During Trip
+- In-app navigation: automatically done for the driver so they can focus on getting their safely. 
+
+After Trip
+- Fares are charged automatically
+- Drivers rate riders after every trip, this ensures high quality of riders
+
+<h3>Uber Community Guidelines</h3>
+https://www.uber.com/en-AU/legal/community-guidelines/us-en/
+- Respect each other
+- Give personal space
+- Safety first
+- Children must be supervised
+- Feedback makes us better
+
+Quite an extensive list, worth further investigation.
+
+<h2>AirBnB</h2>
+<h3>AirBnB - Trust</h3>
 https://www.airbnb.com.au/trust
+- Identification
+- Profiles & Reviews
+- In-App Messaging
+- Secure payment platform
+- Hosts are covered by insurance
+- 24/7 support
+
+<h3>AirBnB - Designing for Trust</h3>
 https://airbnb.design/how-airbnb-designs-for-trust/
+ - "Airbnb as the mututal friend at a party"
 
-AirTasker
+<h3>AirBnB - Standards and Expectations</h3>
+https://www.airbnb.com.au/standards
+
+<h2>AirTasker</h2>
+<h3>AirTasker - How it Works</h3>
 https://www.airtasker.com/how-it-works/
-
-Trust
-
-Security
-
-Rating Systems
 
 <h2>References</h2>
 
