@@ -88,6 +88,12 @@ Features
 <h3>Elo Rating system</h3>
 <a href="https://en.wikipedia.org/wiki/Elo_rating_system">Wikipedia:Elo Rating</a>
 
+<h2>Academic Studies</h2>
+<h3>Exploring Trust of Mobile Applications based on user behaviour</h3>
+- "Herein, we define a user’s trust in a mobile application as his/her belief onwhether the application could fulfill a task as expected."
+- "Trust is important because it helps consum-ers overcome perceptions of uncertainty and risk and engage in "trust-related behaviors”; in short,trust behavior. "
+
 <h2>References</h2>
+Yan, Z., Dong, Y., Niemi, V. and Yu, G. (2013), Exploring trust of mobile applications based on user behaviors: an empirical study. J Appl Soc Psychol, 43: 638–659. doi:10.1111/j.1559-1816.2013.01044.x
 
 <code>IEEE standard and link in-text to here.</code>
