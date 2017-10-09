@@ -94,12 +94,15 @@ https://www.pf.uq.edu.au/unisafe/index.html
 
 <h2>UQ Pedestrian Paths in Darkness</h2>
 https://www.pf.uq.edu.au/maps/security/01PedestrianPaths.pdf
+UQ Security has predefined, recommended pedestrian paths to be used in darkness.
 
 <h2>Safety Shuttle Bus</h2>
 https://www.pf.uq.edu.au/unisafe/bus.html
+UQ offers the service of a safety shuttle bus that transports between set locations during darkness.
 
 <h2>UniSafe Escorts</h2>
 https://www.pf.uq.edu.au/unisafe/escorts.html
+UQ does offer security escorts to public transport or a vehicle during darkness.
 
 <h1>Academic Studies</h1>
 <h2>Exploring Trust of Mobile Applications based on user behaviour</h2>
