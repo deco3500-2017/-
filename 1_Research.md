@@ -1,5 +1,6 @@
 <h1>1. Research</h1>
 
+<h1>Similiar App Analysis</h1>
 <h2>Uber</h2>
 <h3>Community Benefits</h3>
 https://www.uber.com/en-AU/safety/
@@ -88,8 +89,12 @@ Features
 <h3>Elo Rating system</h3>
 <a href="https://en.wikipedia.org/wiki/Elo_rating_system">Wikipedia:Elo Rating</a>
 
-<h2>Academic Studies</h2>
-<h3>Exploring Trust of Mobile Applications based on user behaviour</h3>
+<h1>UQ Security & Safety</h1>
+<h2>UQ Uni Safety</h2>
+https://www.pf.uq.edu.au/unisafe/index.html
+
+<h1>Academic Studies</h1>
+<h2>Exploring Trust of Mobile Applications based on user behaviour</h2>
 - "Herein, we define a user’s trust in a mobile application as his/her belief onwhether the application could fulfill a task as expected."
 - "Trust is important because it helps consum-ers overcome perceptions of uncertainty and risk and engage in "trust-related behaviors”; in short,trust behavior. "
 
