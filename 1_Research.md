@@ -90,10 +90,12 @@ Features
 
 <h1>UQ Security & Safety</h1>
 <h2>UQ Uni Safety</h2>
+<br>
 https://www.pf.uq.edu.au/unisafe/index.html
 
 <h2>UQ Pedestrian Paths in Darkness</h2>
 https://www.pf.uq.edu.au/maps/security/01PedestrianPaths.pdf
+<br>
 UQ Security has predefined, recommended pedestrian paths to be used in darkness.
 
 <h2>Safety Shuttle Bus</h2>
