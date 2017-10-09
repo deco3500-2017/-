@@ -78,10 +78,15 @@ https://www.airbnb.com.au/standards
 <h2>AirTasker</h2>
 <h3>How it Works</h3>
 https://www.airtasker.com/how-it-works/
+<br>
 Features
+<br>
 - Insurance
+<br>
 - Complete customer support
+<br>
 - Rating & Reviews
+<br>
 - Communication: In-App messaging and on platform private calls
 
 <h2>In-app Currency & Karma</h2>
@@ -90,7 +95,6 @@ Features
 
 <h1>UQ Security & Safety</h1>
 <h2>UQ Uni Safety</h2>
-<br>
 https://www.pf.uq.edu.au/unisafe/index.html
 
 <h2>UQ Pedestrian Paths in Darkness</h2>
@@ -100,15 +104,19 @@ UQ Security has predefined, recommended pedestrian paths to be used in darkness.
 
 <h2>Safety Shuttle Bus</h2>
 https://www.pf.uq.edu.au/unisafe/bus.html
+<br>
 UQ offers the service of a safety shuttle bus that transports between set locations during darkness.
 
 <h2>UniSafe Escorts</h2>
 https://www.pf.uq.edu.au/unisafe/escorts.html
+<br>
 UQ does offer security escorts to public transport or a vehicle during darkness.
 
 <h1>Academic Studies</h1>
 <h2>Exploring Trust of Mobile Applications based on user behaviour</h2>
+<br>
 - "Herein, we define a user’s trust in a mobile application as his/her belief onwhether the application could fulfill a task as expected."
+<br>
 - "Trust is important because it helps consum-ers overcome perceptions of uncertainty and risk and engage in "trust-related behaviors”; in short,trust behavior. "
 
 <h2>References</h2>
