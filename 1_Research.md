@@ -75,7 +75,7 @@ https://www.airbnb.com.au/standards
 <h2>AirTasker</h2>
 <h3>How it Works</h3>
 https://www.airtasker.com/how-it-works/
-- Insurane
+- Insurance
 - Complete customer support
 - Rating & Reviews
 - Communication: In-App messaging and on platform private calls
