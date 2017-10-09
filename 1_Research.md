@@ -1,6 +1,5 @@
-<h1>1. Research</h1>
-
 <h1>Similiar App Analysis</h1>
+
 <h2>Uber</h2>
 <h3>Community Benefits</h3>
 https://www.uber.com/en-AU/safety/
