@@ -1,4 +1,4 @@
-<h1>Similiar App Analysis</h1>
+<h1>Similiar Application Analysis</h1>
 
 <h2>Uber</h2>
 <h3>Community Benefits</h3>
@@ -91,6 +91,15 @@ Features
 <h1>UQ Security & Safety</h1>
 <h2>UQ Uni Safety</h2>
 https://www.pf.uq.edu.au/unisafe/index.html
+
+<h2>UQ Pedestrian Paths in Darkness</h2>
+https://www.pf.uq.edu.au/maps/security/01PedestrianPaths.pdf
+
+<h2>Safety Shuttle Bus</h2>
+https://www.pf.uq.edu.au/unisafe/bus.html
+
+<h2>UniSafe Escorts</h2>
+https://www.pf.uq.edu.au/unisafe/escorts.html
 
 <h1>Academic Studies</h1>
 <h2>Exploring Trust of Mobile Applications based on user behaviour</h2>
