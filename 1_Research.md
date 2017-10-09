@@ -44,6 +44,7 @@ After Trip
 
 <h3>Community Guidelines</h3>
 https://www.uber.com/en-AU/legal/community-guidelines/us-en/
+Guidelines
 - Respect each other
 - Give personal space
 - Safety first
@@ -55,6 +56,7 @@ Quite an extensive list, worth further investigation.
 <h2>AirBnB</h2>
 <h3>Trust</h3>
 https://www.airbnb.com.au/trust
+Features
 - Identification
 - Profiles & Reviews
 - In-App Messaging
@@ -64,10 +66,11 @@ https://www.airbnb.com.au/trust
 
 <h3>Designing for Trust</h3>
 https://airbnb.design/how-airbnb-designs-for-trust/
+Findings
  - Focus isn't on users trusting the company, but on trusting each other
- -"Design" as the mututal friend
- -AirBnB as a facilitator of social interactions
- -First impressions are important (more than half of airbnb customers are first time users at any one time)
+ - "Design" as the mututal friend
+ - AirBnB as a facilitator of social interactions
+ - First impressions are important (more than half of airbnb customers are first time users at any one time)
 
 <h3>Standards and Expectations</h3>
 https://www.airbnb.com.au/standards
@@ -75,6 +78,7 @@ https://www.airbnb.com.au/standards
 <h2>AirTasker</h2>
 <h3>How it Works</h3>
 https://www.airtasker.com/how-it-works/
+Features
 - Insurance
 - Complete customer support
 - Rating & Reviews
