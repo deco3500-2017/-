@@ -88,7 +88,7 @@ See also <a href="https://github.com/deco3500-2017/-/blob/master/2_Initial_Inter
 Initial interviews were conducted in paralel to the initial development of security features of the application. These were designed to determine peoples views on safety as a whole, and if there had been times in their lives they had felt vulnerable. Also to determine if there were any contributing or mitigating factors to this.
 
 <h3>Results</h3>
-It was found that all people surveyed had experiences in their lives that had left them feeling vulnerable. Many were at night, in times where they were alone. Areas quoted such as bridges or walkways were common.
+It was found that all people surveyed had experiences in their lives that had left them feeling vulnerable. Many were at night, in times where they were alone. Areas quoted such as bridges or walkways were common.</br>
 
 People also indicated that in general there was nothing other than getting to know someone that would promote trust. But, it is sometimes possible from a distance to determine if someone is untrustworthy, through body language.
 
