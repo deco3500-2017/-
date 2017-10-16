@@ -70,4 +70,14 @@ Research revealed there may be legal implications of performing this recording. 
 Reception was overall positive. During the prototyping stage everyone indicated they would opt to record the interaction, and that they believed it was a good security feature. However, it was also observed that people already felt secure before the recording option was presented.
 
 <h4>Integration</h4>
-It was decided that due to the challenges posed such as privacy and storage space, and the simplicity to subvert this security measure, there was a decision made to not include this feature in the tactile prototype. 
+It was decided that due to the challenges posed such as privacy and storage space, and the simplicity to subvert this security measure, there was a decision made to not include this feature in the high fidelity prototype. 
+
+<h3>MLSec</h3>
+The underlying security mechanism of the application was then developed. After obtaining someones identity, whenever a help request was actioned, the ID of the helper and helpee would be transmitted online. This would ensure that if any offence were to be committed during help, the helper could be contacted for information by law enforcement. This would prevent convenience predation, as it would introduce a barrier, and significantly increase the risk of being caught. 
+
+In addition, before helpers could connect, the helpee would be required to scan the helpers bar code, which would prove the responder was the correct responder, preventing people attempting to target people using the application. A photo would also be displayed during this process to prevent phone theft.
+
+<h4>Reception</h4>
+It was found that people implicitly accepted the security of the application without being aware of the prescence of the transparent security features of the application. When they manifested in a user facing form, such as the "Scan code to verify your helper" interface, people did not find this to reduce accessibility, and understood the security premise.
+
+<h3>Integration</h3>
