@@ -107,7 +107,7 @@ Research revealed the key components of trust were that the trustor be vulnerabl
 This was discussed in the context of Moonlight and key areas of improvement were identified.
 
 <ol>
-<li></li>
+<li>Trust is a byproduct of vulnerability, as such the application cannot completely remove vulnerability if trust is to be developed.</li>
 <li></li>
 <li></li>
 </ol>
