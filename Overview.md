@@ -59,3 +59,15 @@ It was found during prototyping that users liked the idea of a TrustMark and fou
 
 <h4>Integration</h4>
 This feature was accepted as an addition, pending removal of criteria 6. It was found that users felt the system was objective, so no abuse marshalling would be required outside of an avenue to contest the assessment (if it would result in your TrustMark being revoked).
+
+<h3>Interaction Recording</h3>
+Another idea staged was the ability to record the audio of an interaction for later use if a user wanted to prove they had been falsely accused of not adhering to the Moonlight guidelines. This was to prevent abuse whereby a helper of helpee leaves a negative rating and results in the offender having their TrustMark revoked.
+
+<h4>Research</h4>
+Research revealed there may be legal implications of performing this recording. Firstly, both parties would need to consent to the recording, meaning one party could block the recording if they desired. In addition, it was found that recordings would need to be treated securely. This could be resolved through a consent screen in the application itself, along with a policy to only send recordings if there is a contest of the review.
+
+<h4>Reception</h4>
+Reception was overall positive. During the prototyping stage everyone indicated they would opt to record the interaction, and that they believed it was a good security feature. However, it was also observed that people already felt secure before the recording option was presented.
+
+<h4>Integration</h4>
+It was decided that due to the challenges posed such as privacy and storage space, and the simplicity to subvert this security measure, there was a decision made to not include this feature in the tactile prototype. 
