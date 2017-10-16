@@ -25,14 +25,17 @@ Initial connection with the group was made, and the idea was adopted. During the
 
 <h2>Security Features</h2>
 <h3>Government ID</h3>
-The first stage of development required determining a set of features that would provide "safety" in the context of the applications usage. After studying research by information security experts regarding abuse of systems, the *identity* component of the application was found to be the key to the safety.</br>
-If all users (not the accounts of the users, but the user themselves) of the application could be uniquely identified, then any offence would be tied to them as a person, meaning they would not have anonimity. As such it was decided that a key safety feature of the application would be requiring users upload a government ID.</br>
+The first stage of development required determining a set of features that would provide "safety" in the context of the applications usage. After studying research by information security experts regarding abuse of systems, the <i>identity</i> component of the application was found to be the key to the safety.</br>
+If all users (not the accounts of the users, but the user themselves) of the application could be uniquely identified, then any offence would be tied to them as a person, meaning they would not have anonimity. Research revealed this anonimity was a key cause of abuse. Research was then conducted to determine the best way to do this.</br>
 
 <h4>Research</h4>
-It was found that as part of a *100 points of identification* scheme introducted to prevent money laundering in Australia, many finanical institutions are already required to collect this information. Including many fully online sites, trading in currencies such as Bitcoin. This did not deter usage by users. It was also found that other peer to peer applications exist where such a Government ID is required, such as Uber. This positively supported the inclusion of this feature.
+It was found that as part of a </i>100 points of identification</i> scheme introducted to prevent money laundering in Australia, many finanical institutions are required to collect a government ID. This included many fully online sites, trading in currencies such as Bitcoin. This did not deter usage by users. It was also found that other peer to peer applications exist where such a Government ID is required, such as Uber. This positively supported the inclusion of this as a feature for preventing anonimity.
 
 <h4>Reception</h4>
 Interviews conducted with users during the term showed users would be willing to upload a government ID, as long as the application was secure, and would not disclose this. Comments were made comparing this process to Uber, showing that people are already open to authentication such as this through Uber.
+
+<h4>Integration</h4>
+This feature was then accepted as an addition. The signup process would require that before an account could perform any functions involving interaction with other users, an ID would need to be uploaded. This could easily be performed from any mobile device with a reasonable resolution camera. Existing solutions already exist that would allow this to automatically be verified.
 
 <h3>Trustmark</h3>
 Once identity is positively established. Then an objective rating system can be applied that ensures no abuse will go unpunished. Due to the nature of the application, and the dangers associated, it was decided that any abuse could not be forgiven, and would need to result in a permanent ban.</br>
