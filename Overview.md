@@ -100,6 +100,14 @@ Finally, people indicated that it would be unlikely they would trust a stranger 
 Initial interviews indicated strongly that developing an application such as Moonlight to facilitate trust would not be trivial. From interviews it was clear that one of the only factors that would actually develop this trust was getting to know a person over a time period greater than the one expected during an app managed interaction. It was deciced that the best approach to continue would be to perform in depth research into literature surrounding trust, to determine what factors could be changed to promote people to trust strangers.
 
 <h2>Trust research</h2>
-Following the interviews extensive research into trust was conducted.
+Following the interviews extensive research into trust was conducted. See also <a href="https://github.com/deco3500-2017/-#building-and-establishing-trust-">building and establishing trust</a>.
 
+Research revealed the key components of trust were that the trustor be vulnerable to the trustee, that the trustor thinks well of the trustee in some domain, that the trustor is optimistic the trustee is competent in some respect, and that the trustor is optimistic the trustee will have a certain motive for acting.
 
+This was discussed in the context of Moonlight and key areas of improvement were identified.
+
+<ol>
+<li></li>
+<li></li>
+<li></li>
+</ol>
