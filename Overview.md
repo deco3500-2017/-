@@ -3,11 +3,10 @@ This file follows the whole design process for Project Moonlight, with design as
 </br></br>
 <h1>Stages</h1>
 
-<h2>Idea</h2>
-<h3>Initial Idea</h3>
+<h2>Initial Idea</h2>
 The initial idea of Moonlight was to promote a feeling of safety by better connecting people with a geographical proximity. The use case driving this application was the concept of <i>someone wanting someone else to walk them to their car after a late lecture</i>. The key target was an application that would allow people to feel safer.
 
-<h3>Early Feedback</h3>
+<h2>Early Idea Development</h2>
 The course coordinator was contacted early in the development process for feedback. Key areas of focus were isolated from this feedback (emphasis added to quote).
 
 </br></br><q>
@@ -21,4 +20,20 @@ From this the following requirements of the intial idea were developed:
 <li>A way to facilitate this development of trust</li>
 </ul>
 
+<h2>Group Work 1</h2>
+Initial connection with the group was made, and the idea was adopted. During the first week of discussion, the major work order was for completion of research into similar applications which was to be completed by the next week. This was to be completed in paralell to the critical feature the group agreed upon, that in order for any part of the application to be adopted, it would need to be perceived as *secure*.
 
+<h2>Security Features</h2>
+<h3>Government ID</h3>
+The first stage of development required determining a set of features that would provide "safety" in the context of the applications usage. After studying research by information security experts regarding abuse of systems, the *identity* component of the application was found to be the key to the safety.</br>
+If all users (not the accounts of the users, but the user themselves) of the application could be uniquely identified, then any offence would be tied to them as a person, meaning they would not have anonimity. As such it was decided that a key safety feature of the application would be requiring users upload a government ID.</br>
+
+<h4>Research</h4>
+It was found that as part of a *100 points of identification* scheme introducted to prevent money laundering in Australia, many finanical institutions are already required to collect this information. Including many fully online sites, trading in currencies such as Bitcoin. This did not deter usage by users. It was also found that other peer to peer applications exist where such a Government ID is required, such as Uber. This positively supported the inclusion of this feature.
+
+<h4>Reception</h4>
+Interviews conducted with users during the term showed users would be willing to upload a government ID, as long as the application was secure, and would not disclose this. Comments were made comparing this process to Uber, showing that people are already open to authentication such as this through Uber.
+
+<h3>Trustmark</h3>
+Once identity is positively established. Then an objective rating system can be applied that ensures no abuse will go unpunished. Due to the nature of the application, and the dangers associated, it was decided that any abuse could not be forgiven, and would need to result in a permanent ban.</br>
+This resulted in the concept of a *TrustMark*. This is associated with each user, and is a sign that a user has not commited any offence, and has uploaded a government ID. This would be revoked if any abuse was committed.</br>
