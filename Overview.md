@@ -87,6 +87,19 @@ These features were accepted for addition into the application without requiring
 See also <a href="https://github.com/deco3500-2017/-/blob/master/2_Initial_Interviews_20170822.md">initial interviews</a>
 Initial interviews were conducted in paralel to the initial development of security features of the application. These were designed to determine peoples views on safety as a whole, and if there had been times in their lives they had felt vulnerable. Also to determine if there were any contributing or mitigating factors to this.
 
-<h3>Script</h3>
+<h3>Results</h3>
+It was found that all people surveyed had experiences in their lives that had left them feeling vulnerable. Many were at night, in times where they were alone. Areas quoted such as bridges or walkways were common.
+
+People also indicated that in general there was nothing other than getting to know someone that would promote trust. But, it is sometimes possible from a distance to determine if someone is untrustworthy, through body language.
+
+When probed for trusted people in their lives, and what made them trustworthy, there was mention of qualities such as kindness / caring. 
+
+Finally, people indicated that it would be unlikely they would trust a stranger for an interaction such as <i>walking them to their car.</i>
+
+<h3>Evaluation</h3>
+Initial interviews indicated strongly that developing an application such as Moonlight to facilitate trust would not be trivial. From interviews it was clear that one of the only factors that would actually develop this trust was getting to know a person over a time period greater than the one expected during an app managed interaction. It was deciced that the best approach to continue would be to perform in depth research into literature surrounding trust, to determine what factors could be changed to promote people to trust strangers.
+
+<h2>Trust research</h2>
+Following the interviews extensive research into trust was conducted.
 
 
