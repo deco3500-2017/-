@@ -7,23 +7,26 @@
 https://www.uber.com/en-AU/safety/
 Uber has successfully established itself as an organisation centred around safety and ensuring the satisfaction of its drivers and riders alike. They have taking the initiative to ensure that they have a positive impact in every community in which they operate, and consistently reach outside the bounds of their "taxi" service in order to achieve this. Studies have revealed a strong correlation between Uber's presence in cities and a reduction in the amount of drunk driving.
 
-
-Uber has made their service available 24/7, so they are always available. Furthermore, emphasis is placed on Uber's ability to operate in times of emergency as they are heavily relied upon to transport customers to a safe destination. In addition, Uber utilizes its extensive network of driver partners during times of emergency by using its Uber Partner app to send AMBER alters (child abduction) to all drivers who are online, because in their own words:
+Uber has made their service available 24/7, so they are always available. Furthermore, emphasis is placed on Uber's ability to operate in times of emergency as they are heavily relied upon to transport customers to a safe destination. In addition, Uber utilizes its extensive network of driver partners during times of emergency by using its Uber Partner app to send AMBER alters (child abduction) to all drivers who are online, because in their own words:<br>
 "the more eyes we have on the road, the safer we all are."
 
 <h3>Driver Safety</h3>
 https://www.uber.com/en-AU/drive/safety/
+Uber places a great amount of importance not only onto the rider's safety, but also the safety of the drivers. A number of security/saftey mechanisms have been developed to ensure diver safety during every stage of the Uber process (before, during, and after the trip)
 
-Before Trip
+<b>Before the Trip</b>
+- No anonymous pickups: all riders are required to create an account and provide their name and phone number as a minimum before they are able to request a ride. They are also able to link social accounts and provide a profile picture of themselves. This way, when a driver is picking up a rider they will know who they are and so will Uber.
+- Substitute phone numbers: in many of the locations in which Uber operates around the world they utilize technology that anonymizes rider and driver phone numbers so that they are able to call and message eachother while keeping their personal information private. 
+
 - Safe pickups: The rider decides where they get picked up and dropped off. This ensures they can stay safe and comfortable.
 - Open to everyone: All requests are blindly matched, this prevents discrimination.
 - Driver profiles: Let's the rider know who is picking them up ahead of time, and allows communication afterwards.
 
-During Trip
+<b>During the Trip</b>
 - Share ETA: Allow your friends and family to follow your route to stay safe.
 - Map is always on: Follow trip in real time, so you always know where you are.
 
-After Trip
+<b>After the Trip</b>
 - Anonymous Feedback: Rate driver after the trip
 - 24/7 Support
 - Rapid response: specially trained "incident response teams"
