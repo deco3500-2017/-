@@ -80,4 +80,13 @@ In addition, before helpers could connect, the helpee would be required to scan 
 <h4>Reception</h4>
 It was found that people implicitly accepted the security of the application without being aware of the prescence of the transparent security features of the application. When they manifested in a user facing form, such as the "Scan code to verify your helper" interface, people did not find this to reduce accessibility, and understood the security premise.
 
-<h3>Integration</h3>
+<h4>Integration</h4>
+These features were accepted for addition into the application without requiring changes. 
+
+<h2>Initial Interviews</h2>
+See also <a href="https://github.com/deco3500-2017/-/blob/master/2_Initial_Interviews_20170822.md">initial interviews</a>
+Initial interviews were conducted in paralel to the initial development of security features of the application. These were designed to determine peoples views on safety as a whole, and if there had been times in their lives they had felt vulnerable. Also to determine if there were any contributing or mitigating factors to this.
+
+<h3>Script</h3>
+
+
