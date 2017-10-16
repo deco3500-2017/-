@@ -21,7 +21,8 @@ From this the following requirements of the intial idea were developed:
 </ul>
 
 <h2>Group Work 1</h2>
-Initial connection with the group was made, and the idea was adopted. During the first week of discussion, the major work order was for completion of research into similar applications which was to be completed by the next week. This was to be completed in paralell to the critical feature the group agreed upon, that in order for any part of the application to be adopted, it would need to be perceived as *secure*.
+Initial connection with the group was made, and the idea was adopted. During the first week of discussion, the major work order was for completion of research into similar applications which was to be completed by the next week.</br>
+The group also decided that the security of the application was a critical feature that required exploring. It was decided that the security aspects of the application be investigated in paralell to the research component.
 
 <h2>Security Features</h2>
 <h3>Government ID</h3>
