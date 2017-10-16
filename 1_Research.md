@@ -5,9 +5,10 @@
 <h2>Uber</h2>
 <h3>Community Benefits</h3>
 https://www.uber.com/en-AU/safety/
-- Uber protects communities: in cities where Uber is present, drunk driving is reduced.
-- Always available 24/7, so they're available in an emergency
-- Uber drivers are all notified in the case of an AMBER alert (child abduction)
+Uber has successfully established itself as an organisation centred around safety and ensuring the satisfaction of its drivers and riders alike. They have taking the initiative to ensure that they have a positive impact in every community in which they operate, and consistently reach outside the bounds of their "taxi" service in order to achieve this. Studies have revealed a strong correlation between Uber's presence in cities and a reduction in the amount of drunk driving.
+
+Uber has made their service available 24/7, so they are always available. Furthermore, emphasis is placed on Uber's ability to operate in times of emergency as they are heavily relied upon to transport customers to a safe destination. In addition, Uber utilizes its extensive network of driver partners during times of emergency by using its Uber Partner app to send AMBER alters (child abduction) to all drivers who are online, because in their own words:
+"the more eyes we have on the road, the safer we all are."
 
 <h3>Driver Safety</h3>
 https://www.uber.com/en-AU/drive/safety/
