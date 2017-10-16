@@ -41,3 +41,21 @@ This feature was then accepted as an addition. The signup process would require 
 <h3>Trustmark</h3>
 Once identity is positively established. Then an objective rating system can be applied that ensures no abuse will go unpunished. Due to the nature of the application, and the dangers associated, it was decided that any abuse could not be forgiven, and would need to result in a permanent ban.</br>
 This resulted in the concept of a *TrustMark*. This is associated with each user, and is a sign that a user has not commited any offence, and has uploaded a government ID. This would be revoked if any abuse was committed.</br>
+
+<h4>Development</h4>
+The idea of the trust mark was further developed by creating a set of criteria that must be met to ensure that a TrustMark would be retained. These were made as objective as possible to reduce the scope for abuse. The initial criteria decided on were:
+<ol>
+<li>My helper openly offered his trust mark</li>
+<li>My helper tried to help me</li> 
+<li>My helper was polite</li>
+<li>My helper did not make any unwanted requests or advances</li>
+<li>My helper respected me and my beliefs</li>
+<li>My helper requested consent before engaging in any activity that involved physical interaction</li>
+<li>My helper did not request I connect with them later</li>
+</ol>
+
+<h4>Reception</h4>
+It was found during prototyping that users liked the idea of a TrustMark and found most of the criteria agreable. However, the criteria <i>my helper requested consent before engaging in any activity that involved physical interaction</i> was flagged as unnecescary by users, as if the help request was for this type of activity, it would be implicit.
+
+<h4>Integration</h4>
+This feature was accepted as an addition, pending removal of criteria 6. It was found that users felt the system was objective, so no abuse marshalling would be required outside of an avenue to contest the assessment (if it would result in your TrustMark being revoked).
