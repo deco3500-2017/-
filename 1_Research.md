@@ -12,7 +12,7 @@ Uber has made their service available 24/7, so they are always available. Furthe
 
 <h3>Driver Safety</h3>
 https://www.uber.com/en-AU/drive/safety/<br>
-Uber places a great amount of importance not only onto the rider's safety, but also the safety of the drivers. A number of security/safety mechanisms have been developed to ensure diver safety during every stage of the Uber process (before, during, and after the trip)
+Uber places a great amount of importance not only onto the rider's safety, but also the safety of the drivers. A number of security/safety mechanisms have been developed to ensure diver safety during every stage of the Uber process (before, during, and after the trip).<br>
 
 <b>Before the Trip</b>
 - No anonymous pickups: all riders are required to create an account and provide their name and phone number as a minimum before they are able to request a ride. They are also able to link social accounts and provide a profile picture of themselves. This way, when a driver is picking up a rider they will know who they are and so will Uber.
@@ -28,7 +28,7 @@ Uber places a great amount of importance not only onto the rider's safety, but a
 
 <h3>Rider Safety</h3>
 https://www.uber.com/en-AU/ride/safety/
-Rider safety is one of Uber's top concerns. To ensure that all riders are safe, a number of security features have been designed to ensure that everyone is kept safe during every phase of the service. 
+Rider safety is one of Uber's top concerns. To ensure that all riders are safe, a number of security features have been designed to ensure that everyone is kept safe during every phase of the service.<br>
 
 <b>Before the Trip</b>
 - Safe pick-ups: the Uber app automatically finds your location to provide door to door service. Meaning the riders are kept safe wherever they are until their driver arrives.
@@ -36,7 +36,7 @@ Rider safety is one of Uber's top concerns. To ensure that all riders are safe, 
 - Driver profiles: when riders are matched with a driver, they are provided with the driver's name, license plate number, photo and rating - so that they know who's picking them up ahead of time. Furthermore, riders are able to contact the driver after the trip if they have left something behind. 
 
 <b>During the Trip</b>
-Share ETA: once a rider has been picked up, they have the option to share their ETA with friends and family so they can follow the route and know when to expect their arrival. 
+- Share ETA: once a rider has been picked up, they have the option to share their ETA with friends and family so they can follow the route and know when to expect their arrival. 
 - Always on the map: riders can follow their trip in real-time so they always know where they are. 
 
 <b>After the Trip</b>
