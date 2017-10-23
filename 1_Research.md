@@ -1,53 +1,48 @@
 "Rather, we want you to synthesise what your research has told you and quote studies, sources, observations to support your claims. Photos are a great way to show use context."
 
-<h1>Similiar Application Analysis</h1>
+<h1>Similar Application Analysis</h1>
 
 <h2>Uber</h2>
 <h3>Community Benefits</h3>
-https://www.uber.com/en-AU/safety/
-Uber has successfully established itself as an organisation centred around safety and ensuring the satisfaction of its drivers and riders alike. They have taking the initiative to ensure that they have a positive impact in every community in which they operate, and consistently reach outside the bounds of their "taxi" service in order to achieve this. Studies have revealed a strong correlation between Uber's presence in cities and a reduction in the amount of drunk driving.
+https://www.uber.com/en-AU/safety/<br>
+Uber has successfully established itself as an organisation centred around safety and ensuring the satisfaction of its drivers and riders alike. They have taking the initiative to ensure that they have a positive impact in every community in which they operate, and consistently reach outside the bounds of their "taxi" service in order to achieve this. Studies have revealed a strong correlation between Uber's presence in cities and a reduction in the amount of drunk driving.<br>
 
 Uber has made their service available 24/7, so they are always available. Furthermore, emphasis is placed on Uber's ability to operate in times of emergency as they are heavily relied upon to transport customers to a safe destination. In addition, Uber utilizes its extensive network of driver partners during times of emergency by using its Uber Partner app to send AMBER alters (child abduction) to all drivers who are online, because in their own words:<br>
 "the more eyes we have on the road, the safer we all are."
 
 <h3>Driver Safety</h3>
-https://www.uber.com/en-AU/drive/safety/
-Uber places a great amount of importance not only onto the rider's safety, but also the safety of the drivers. A number of security/saftey mechanisms have been developed to ensure diver safety during every stage of the Uber process (before, during, and after the trip)
+https://www.uber.com/en-AU/drive/safety/<br>
+Uber places a great amount of importance not only onto the rider's safety, but also the safety of the drivers. A number of security/safety mechanisms have been developed to ensure diver safety during every stage of the Uber process (before, during, and after the trip)
 
 <b>Before the Trip</b>
 - No anonymous pickups: all riders are required to create an account and provide their name and phone number as a minimum before they are able to request a ride. They are also able to link social accounts and provide a profile picture of themselves. This way, when a driver is picking up a rider they will know who they are and so will Uber.
-- Substitute phone numbers: in many of the locations in which Uber operates around the world they utilize technology that anonymizes rider and driver phone numbers so that they are able to call and message eachother while keeping their personal information private. 
-
-- Safe pickups: The rider decides where they get picked up and dropped off. This ensures they can stay safe and comfortable.
-- Open to everyone: All requests are blindly matched, this prevents discrimination.
-- Driver profiles: Let's the rider know who is picking them up ahead of time, and allows communication afterwards.
+- Substitute phone numbers: in many of the locations in which Uber operates around the world they utilize technology that anonymizes rider and driver phone numbers so that they are able to call and message each other while keeping their personal information private. 
 
 <b>During the Trip</b>
-- Share ETA: Allow your friends and family to follow your route to stay safe.
-- Map is always on: Follow trip in real time, so you always know where you are.
+- In-app navigation: the Uber app automates the navigation system. When a rider initially orders an Uber they set the destination, once they are picked up by a driver the Uber app automatically provides turn by turn navigation so that drivers can focus on reaching the destination safely.
+- Always on the map: GPS data from both the driver and rider's mobile devices is logged so that Uber knows who the driver and riders are and where they are going. This promotes accountability and encourages good behaviour. 
 
 <b>After the Trip</b>
-- Anonymous Feedback: Rate driver after the trip
-- 24/7 Support
-- Rapid response: specially trained "incident response teams"
-
-Behind the Scenes
-- Uber anonymizes personal contact information until it is needed
-- GPS location logged for every trip
-- Assisting law enforcement by providing data when necessary
+- Automated payments: once a trip is completed, the fare is charged to the rider's selected method of payment (e.g. Paypal), removing both the need to carry cash, and the potential dangers that are associated with it. 
+- 24/7 Driver support: Uber's customer service representatives are available 24/7 to ensure that any issues are resolved in a timely manner.
 
 <h3>Rider Safety</h3>
 https://www.uber.com/en-AU/ride/safety/
+Rider safety is one of Uber's top concerns. To ensure that all riders are safe, a number of security features have been designed to ensure that everyone is kept safe during every phase of the service. 
 
-Before the Trip
-- No anonymous pickups, everyone has a profile
+<b>Before the Trip</b>
+- Safe pick-ups: the Uber app automatically finds your location to provide door to door service. Meaning the riders are kept safe wherever they are until their driver arrives.
+- Open to everyone, everywhere: all ride requests are blindly matched with the closest available driver. So there is no discrimination based on race, gender or destination.
+- Driver profiles: when riders are matched with a driver, they are provided with the driver's name, license plate number, photo and rating - so that they know who's picking them up ahead of time. Furthermore, riders are able to contact the driver after the trip if they have left something behind. 
 
-During Trip
-- In-app navigation: automatically done for the driver so they can focus on getting their safely. 
+<b>During the Trip</b>
+Share ETA: once a rider has been picked up, they have the option to share their ETA with friends and family so they can follow the route and know when to expect their arrival. 
+- Always on the map: riders can follow their trip in real-time so they always know where they are. 
 
-After Trip
-- Fares are charged automatically
-- Drivers rate riders after every trip, this ensures high quality of riders
+<b>After the Trip</b>
+- Anonymous feedback: after every trip, riders are given the opportunity to rate the driver and provide anonymous feedback about the ride. Uber reviews all feedback to ensure their goal of making every ride a great experience is achieved.
+- 24/7 support: the Uber support team is available 24/7 to respond to any questions that riders may have about their trip and to help the retrieve any lost items. 
+- Rapid response: Uber's specially-trained response team is available around the clock to handle any urgent concerns.
 
 <h3>Community Guidelines</h3>
 https://www.uber.com/en-AU/legal/community-guidelines/us-en/
