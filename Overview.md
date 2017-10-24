@@ -137,17 +137,21 @@ The idea behind the connections interface is that if people share a mutual type 
 
 There was debate about the importance of this for the Moonlight application, which was resolved by breaking down the use cases of the application wrt/ people using the application for a social outlet.
 
-<b>Both users are not using the application as a social outlet</b>
+<b>Both users are not using the application as a social outlet</b></br>
 Both users expect the other user is using the application in the same context as them, satisfying the final condition of trust. The connections interface will not pose an issue, as if they want to reconnect they can, but they are under no pressure to do so.
 
-<b>One user is using for social connection, the other is not</b>
-Both users expect the other user is using the application in the same context as them, however, each is <i>truly</i> using it within a different context. The application policy mandates that one user cannot request another user 'reconnect' with them (with the justification of safety), so although there is a different intent behind the usage, this will not become apparent to the non-social user, so the fourth condition of trust is still satisfied. Finally, on reaching the connection interface, the social context user can still use this outlet, and the non-social user can make a non-pressured decision about how they feel, potentially satisfying the usage intent of the 'social' user.
+<b>One user is using for social connection, the other is not</b></br>
+Both users expect the other user is using the application in the same context as them, however, each is <i>truly</i> using it within a different context. The application policy mandates that one user cannot request another user 'reconnect' with them (with the justification of safety), so although there is a different intent behind the usage, this will not become apparent to the non-social user, so the fourth condition of trust is still satisfied. Finally, on reaching the connection interface, the social context user can still use this outlet, and the non-social user can make a non-pressured decision about how they feel, potentially satisfying the usage intent of the social user.
 
-<b>Both users are using the application as a social outlet</b>
+<b>Both users are using the application as a social outlet</b></br>
 Both users expect the other user is using the application in the same context as them, satisfying the final condition of trust. The connection interface will allow both users to reconnect if desired, potentially satisfying both their usage intents.
 
+In addition. It is possible two social users will be looking for a different type of connection. By offering the connection categories discussed above, it prevents two users reconnecting with different intents, which could create a negative feeling which would be associated with the application.
 
+<h5>Reception</h5>
+In user testing conducted with mockups, users responded that they liked the idea of the feature, however felt uncomfortable with the terminology used for 'romantic relationships'. Female users expressed that this made the application feel 'sleezy', and that it made them uncomfortable.
 
+It was identified that the reason behind this was the terminology used itself. A variety of different terms were trialed, and finally it was settled that 'Felt a deeper connection' did not have negative connotations, and did not ellicit a negative response.
 
-
+High fidelity testing with this change implemented showed that the reception of the feature was very positive, and the previous reservations about the terminology had been resolved.
 
