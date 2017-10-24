@@ -42,6 +42,12 @@ The app will alert all registered Helpers in the near vicinity that assistance i
 Once the issue is resolved the Helper leaves the area and the Helpee is given the opportunity to leave anonymous feedback on how the Helper performed.
 
 ### DEVELOPMENT
+Initial interviews indicated strongly that developing an application such as Moonlight to facilitate trust would not be trivial. From interviews, it was clear that one of the only factors that would actually develop this trust was getting to know a person over a time period greater than the one expected during an app managed interaction. 
 
+By testing a prototype, so further ideas of how people consider the way they establish trust with some level of respect to the user’s need at the time of usage. At this time, the scaling back of what we were testing and developing for prototyping was discussed as some user’s felt overwhelmed while others required prompting.
+
+A further high-fidelity prototype was development with a live web site to allow for testing through a mobile device. This testing was scaled down to allow for better quality test on targeted features within the application to ensure ease of use if stressful situations.
+
+Along with testing, feedback, evaluation and iteration, research towards the understanding of trust and how people establish trust was conducted to give develop more perspective on other services that are available.
 
 ## Demo Moonlight at ml.rft.io
