@@ -13,11 +13,15 @@ Our aims for the Moonlight app from the outset are to build trust with users, bu
 
 
 RESEARCH
+
 Previous Work
+
 Literature
 
 METHOD
+
 Interviews
+
 Prototypes (mock ups)
 
 RESULTS
@@ -26,7 +30,9 @@ RESULTS
 DISCUSSION
 	
 SECURITY & TRUST
+
 Establishing Trust
+
 Sense of Security
 
 RECOMMENDATIONS
