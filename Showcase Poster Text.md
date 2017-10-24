@@ -24,6 +24,8 @@ Interviews
 
 Prototypes (mock ups)
 
+Personas
+
 RESULTS
 
 
