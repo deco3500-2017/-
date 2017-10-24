@@ -6,7 +6,7 @@
 Moonlight is an app targeted at creating safer communities by facilitating the meeting of those in need of help (Helpees) with those who are able to provide it (Helpers). Our goal is to increase the safety and comfort of our users by alleviating the common concerns and stresses that occur when they feel unsafe.
 
 #### Security & Trust
-Safety is Moonlights #1 priority. The app incorporates a number of security features to ensure that all users are kept safe before, during and after help has been given.
+Safety is Moonlights #1 priority. The app incorporates a number of security features to ensure that all users are kept safe before, during and after help has been given.<br>
 <b>Before help</b>
 - Help provided anywhere, any time: Helpees are able to request help at their current location 24/7. This enables the Helpee to stay safe until help arrives. 
 - Helpee choses the helper: Helpees selected the Helper from a list of available Helpers to prevent use by predators. 
