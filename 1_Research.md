@@ -77,6 +77,14 @@ Findings
 <h3>Standards and Expectations</h3>
 https://www.airbnb.com.au/standards
 
+<h3>Establishing Trust</h3>
+Findings
+ - Users place emphasis on host photos when evaluating how trustworthy accomodation is.
+ - Users place more weight behind a hosts profile picture, than the ratings of the accomodation.
+ - Profile photos are increasingly the deciding factor, when review scores for accomodation options are similar.
+ - "Trustworthiness" of photos directly relates to prices of accomodation and likelyhood of being chosen.
+ - Users are more likely to trust based on reviews, rather than social biases, even when demographic similarities are a factor.
+
 <h2>AirTasker</h2>
 <h3>How it Works</h3>
 https://www.airtasker.com/how-it-works/
@@ -123,5 +131,10 @@ UQ does offer security escorts to public transport or a vehicle during darkness.
 
 <h2>References</h2>
 Yan, Z., Dong, Y., Niemi, V. and Yu, G. (2013), Exploring trust of mobile applications based on user behaviors: an empirical study. J Appl Soc Psychol, 43: 638–659. doi:10.1111/j.1559-1816.2013.01044.x
+
+Ert, Fleischer, & Magen. (2016). Trust and reputation in the sharing economy: The role of personal photos in Airbnb. Tourism Management, 55, 62-73.
+
+Abrahao, B., Parigi, P., Gupta, A., & Cook, K. (2017). Reputation offsets trust judgments based on social biases among Airbnb users. Proceedings of the National Academy of Sciences of the United States of America, Proceedings of the National Academy of Sciences of the United States of America, 28 August 2017.
+
 
 <code>IEEE standard and link in-text to here.</code>
