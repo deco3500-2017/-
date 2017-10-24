@@ -167,6 +167,6 @@ High fidelity testing with this change implemented showed that the reception of 
 <h6>Changes on the Connections Interface</h6>
 </td></tr>
 <tr><td>
-<a href="http://rft.io/deco3500/overview/change02.png><img src="http://rft.io/deco3500/overview/change02.png"></img></a></br>
+<a href="http://rft.io/deco3500/overview/change02.png"><img src="http://rft.io/deco3500/overview/change02.png"></img></a></br>
 </td></tr>
 </table>
