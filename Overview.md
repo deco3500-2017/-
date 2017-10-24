@@ -161,4 +161,12 @@ In user testing conducted with mockups, users responded that they liked the idea
 It was identified that the reason behind this was the terminology used itself. A variety of different terms were trialed, and finally it was settled that 'Felt a deeper connection' did not have negative connotations, and did not ellicit a negative response.
 
 High fidelity testing with this change implemented showed that the reception of the feature was very positive, and the previous reservations about the terminology had been resolved.
-
+</br>
+<table>
+<tr><td>
+<h6>Changes on the Connections Interface</h6>
+</td></tr>
+<tr><td>
+<img src="http://rft.io/deco3500/overview/change02.png"></img></br>
+</td></tr>
+</table>
