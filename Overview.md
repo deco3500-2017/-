@@ -86,6 +86,15 @@ In addition, before helpers could connect, the helpee would be required to scan 
 
 <h4>Reception</h4>
 It was found that people implicitly accepted the security of the application without being aware of the prescence of the transparent security features of the application. When they manifested in a user facing form, such as the "Scan code to verify your helper" interface, people did not find this to reduce accessibility, and understood the security premise.
+</br>
+<table>
+<tr><td>
+<h6>MLSec Mockup Implementation</h6>
+</td></tr>
+<tr><td>
+<a href="http://rft.io/deco3500/overview/feature03.png"><img src="http://rft.io/deco3500/overview/feature03.png"></img></a></br>
+</td></tr>
+</table>
 
 <h4>Integration</h4>
 These features were accepted for addition into the application without requiring changes. 
