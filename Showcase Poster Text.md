@@ -1,6 +1,7 @@
 OVERVIEW
 
-Moonlight is a location based assistance application with the intention of solving the fundamental issues associated with receiving help from unknown parties and establishing trust. The basic application will allow users to request general assistance, reach out to find others to interact with socially, and receive help in emergency situations.
+Moonlight is a location based assistance application with the intention of solving the fundamental issues associated with receiving help from unknown parties and establishing trust. The basic application will allow users to request general assistance, reach out to find others to interact with socially, and receive help in emergency situations. By exploring the environment of “The Active Community”, Moonlight hopes to gain further insight into the how people establish trust with one another via the means of representation and reputation within a digital system.
+
 
 The initial idea of Moonlight was to promote a feeling of safety by better connecting people with a geographical proximity. The use case driving this application was the concept of someone wanting someone else to walk them to their car after a late lecture. The key target was an application that would allow people to feel safer.
 
