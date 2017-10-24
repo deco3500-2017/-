@@ -111,8 +111,30 @@ This was discussed in the context of Moonlight and key areas of improvement were
 <li>The motivation (or expected motivation) of the trustee has to be in line with what the trustor wants it to be.</li>
 </ol>
 
+<h4>Safety vs Trust</h4>
 The first of these caused a change in the direction of the design. Initially the application was meant to directly build trust, however, it was realized after research, and the information collected in initial interviews, that trust was not something that could be directly formed through an application without risk, and required that the helpee first accept some level of risk. Because of this we decided to shift the design in the direction of creating a <b>safe</b> environment, where trust could form naturally, note the distinction between safety and trust.
 
-Trust is defined as (although a definition of trust is difficult) a <i>firm reliance on the integrity, ability, or character of a person or thing</i> whereas safety is defined as <i>the condition of being safe; freedom from danger, risk, or injury</i>. By ensurign people are physically safe, the natural formation of trust will be promoted.
+Trust is defined as (although a definition of trust is difficult) a <i>firm reliance on the integrity, ability, or character of a person or thing</i> whereas safety is defined as <i>the condition of being safe; freedom from danger, risk, or injury</i>. By ensuring people are physically safe, the natural formation of trust can be promoted through the application.
+
+<h4>Motivations behind Helping</h4>
+It was also realized that a key motivation of using the application for many people would be for social connection. A helper may help someone in order to connect socially, as a helpee may request help for the same reason. Because of this, it was identified that the final condition of trust, that a trustee's motivation be in line with the trustor's expectation, may not always be satisfied.
+
+This caused a significant design change in two areas of the application. The first was the connections interface. The connections interface is a feature that allows helper and helpee to reconnect a later time, if they felt a connection.
+
+<h5>Types of Connection</h5>
+Further research revealed that in a broad sense connections could be broken into four key categories:
+<ul>
+  <li>Friendship - for example <i>a friend group</i></li>
+  <li>Romantic Relationships - for example <i>a married couple</i></li>
+  <li>Professional Relationships - for example <i>a mentor and mentee</i> / <i>professional networks</i></li>
+  <li>Intellectual / Activity Partners - for example <i>study mates</i> / <i>sports teams</i> / <i>research teams</i></li>
+</ul>
+
+Although intellectual relationships and activity partners are more situational then dispositionally based, they would allow reconnection on the grounds of similar intrests, where friendship would not neccescarily need to be considered. For example reconencting with a helper who offered to help with learning a certain skill.
+
+<h5>Implementation</h5>
+The idea behind the connections interface is that if people share a mutual type of connection they can reconnect. If they do not, they will 
+
+
 
 
