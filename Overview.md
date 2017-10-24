@@ -60,7 +60,7 @@ It was found during prototyping that users liked the idea of a TrustMark and fou
 <h6>Changes on the Rate My Helper interface</h6>
 </td></tr>
 <tr><td>
-<img src="http://rft.io/deco3500/overview/change01.png"></img></br>
+<a href="http://rft.io/deco3500/overview/change01.png"><img src="http://rft.io/deco3500/overview/change01.png"></img></a></br>
 </td></tr>
 </table>
 
@@ -167,6 +167,6 @@ High fidelity testing with this change implemented showed that the reception of 
 <h6>Changes on the Connections Interface</h6>
 </td></tr>
 <tr><td>
-<img src="http://rft.io/deco3500/overview/change02.png"></img></br>
+<a href="http://rft.io/deco3500/overview/change01.png><img src="http://rft.io/deco3500/overview/change02.png"></img></a></br>
 </td></tr>
 </table>
