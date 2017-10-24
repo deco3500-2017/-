@@ -35,6 +35,12 @@ SECURITY & TRUST
 
 Establishing Trust
 
+Trustmark
+
+Once identity is positively established. Then an objective rating system can be applied that ensures no abuse will go unpunished. Due to the nature of the application, and the dangers associated, it was decided that any abuse could not be forgiven, and would need to result in a permanent ban.
+This resulted in the concept of a TrustMark. This is associated with each user, and is a sign that a user has not commited any offence, and has uploaded a government ID. This would be revoked if any abuse was committed.
+
+
 Sense of Security
 
 RECOMMENDATIONS
