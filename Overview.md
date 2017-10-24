@@ -115,6 +115,15 @@ Finally, people indicated that it would be unlikely they would trust a stranger 
 <h3>Evaluation</h3>
 Initial interviews indicated strongly that developing an application such as Moonlight to facilitate trust would not be trivial. From interviews it was clear that one of the only factors that would actually develop this trust was getting to know a person over a time period greater than the one expected during an app managed interaction. It was deciced that the best approach to continue would be to perform in depth research into literature surrounding trust, to determine what factors could be changed to promote people to trust strangers.
 
+<h2>Application intent shift</h2>
+The intent of the application as a result of the first round of interviews and discussion was shifted. Initially the application was specifically catering to safety in situations where people felt unsafe. However, it was discovered that the need for assistance was more general than just assistance with safety. 
+
+It was decided that a "general assistance" feature should be trialed, that would allow people to request assistance in a 1:1 context, with one helper and one receiver. This was a large shift, but would extend the use case of the application outside the very narrow 'emergency' use case.
+
+The motivation behind this was to ensure there would be a reason for 'helpers' to use the application. Helpee's have an incentive to use the application to use the application because they receive help. However, a helper may not need to request help, and due to the situations when people feel unsafe (mostly late, and empty areas), it is likely many helpers would not be able to help others. This would prevent the application from gaining traction (reducing its usefulness), as helpers would not be motivated to sign up.
+
+To resolve this issue, by introducing a general assistance section, all users will be exposed to help requests, and can request help in a wider context, which would promote general usage. A pre-release could also be conducted to ensure that there would be enough supply to meet demand. 
+
 <h2>Trust research</h2>
 Following the interviews extensive research into trust was conducted. See also <a href="https://github.com/deco3500-2017/-#building-and-establishing-trust-">building and establishing trust</a>.
 
@@ -165,7 +174,7 @@ Both users expect the other user is using the application in the same context as
 In addition. It is possible two social users will be looking for a different type of connection. By offering the connection categories discussed above, it prevents two users reconnecting with different intents, which could create a negative feeling which would be associated with the application.
 
 <h5>Reception</h5>
-In user testing conducted with mockups, users responded that they liked the idea of the feature, however felt uncomfortable with the terminology used for 'romantic relationships'. Female users expressed that this made the application feel 'sleezy', and that it made them uncomfortable.
+In user testing conducted with mockups, users responded that they liked the idea of the feature, however felt uncomfortable with the terminology used for 'romantic relationships'. Female users expressed that this made the application feel 'sleezy', and that it made them uncomfortable.</br>
 
 It was identified that the reason behind this was the terminology used itself. A variety of different terms were trialed, and finally it was settled that 'Felt a deeper connection' did not have negative connotations, and did not ellicit a negative response.
 
@@ -179,3 +188,6 @@ High fidelity testing with this change implemented showed that the reception of 
 <a href="http://rft.io/deco3500/overview/change02.png"><img src="http://rft.io/deco3500/overview/change02.png"></img></a></br>
 </td></tr>
 </table>
+
+<h2>Social Usage</h2>
+Further discussion promoted the idea
