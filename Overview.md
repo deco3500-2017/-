@@ -108,6 +108,11 @@ This was discussed in the context of Moonlight and key areas of improvement were
 
 <ol>
 <li>Trust is a byproduct of vulnerability, as such the application cannot completely remove vulnerability if trust is to be developed.</li>
-<li></li>
-<li></li>
+<li>The motivation (or expected motivation) of the trustee has to be in line with what the trustor wants it to be.</li>
 </ol>
+
+The first of these caused a change in the direction of the design. Initially the application was meant to directly build trust, however, it was realized after research, and the information collected in initial interviews, that trust was not something that could be directly formed through an application without risk, and required that the helpee first accept some level of risk. Because of this we decided to shift the design in the direction of creating a <b>safe</b> environment, where trust could form naturally, note the distinction between safety and trust.
+
+Trust is defined as (although a definition of trust is difficult) a <i>firm reliance on the integrity, ability, or character of a person or thing</i> whereas safety is defined as <i>the condition of being safe; freedom from danger, risk, or injury</i>. By ensurign people are physically safe, the natural formation of trust will be promoted.
+
+
