@@ -190,4 +190,9 @@ High fidelity testing with this change implemented showed that the reception of 
 </table>
 
 <h2>Social Usage</h2>
-Further discussion promoted the idea
+Further discussion promoted the idea that users primarily using the application for a social outlet could be specifically catered to by providing a 'lobby' service for people looking to reach out and have a conversation. This would also have a positive social effect, with many depression campaigns and wellness campaigns promoting the idea of reaching out if you need to talk.
+
+However, due to the social stigmas associated with engaging conversations with strangers this is not always possible. This application could provide a judgment free environment to facilitate this, where a positive and judgement free environment could be enforced through the TrustMark. This would provide a unique opportunity to bundle the utility of general assistance, along with the potential benefits of social assistance (feeling like there is always someone there, no matter what type of help is required).
+
+<h3>Implementation</h3>
+This feature manifested in the 'Helo' feature set. 
