@@ -133,7 +133,20 @@ Further research revealed that in a broad sense connections could be broken into
 Although intellectual relationships and activity partners are more situational then dispositionally based, they would allow reconnection on the grounds of similar intrests, where friendship would not neccescarily need to be considered. For example reconencting with a helper who offered to help with learning a certain skill.
 
 <h5>Implementation</h5>
-The idea behind the connections interface is that if people share a mutual type of connection they can reconnect. If they do not, they will 
+The idea behind the connections interface is that if people share a mutual type of connection they can reconnect, and they will receive a notification of the connection. If they do not, they will not be notified. This allows people to extend an offer for a connection in the area the person truly wants to reconnect in, without the risk of judgement if this is not reciprocated.
+
+There was debate about the importance of this for the Moonlight application, which was resolved by breaking down the use cases of the application wrt/ people using the application for a social outlet.
+
+<b>Both users are not using the application as a social outlet</b>
+Both users expect the other user is using the application in the same context as them, satisfying the final condition of trust. The connections interface will not pose an issue, as if they want to reconnect they can, but they are under no pressure to do so.
+
+<b>One user is using for social connection, the other is not</b>
+Both users expect the other user is using the application in the same context as them, however, each is <i>truly</i> using it within a different context. The application policy mandates that one user cannot request another user 'reconnect' with them (with the justification of safety), so although there is a different intent behind the usage, this will not become apparent to the non-social user, so the fourth condition of trust is still satisfied. Finally, on reaching the connection interface, the social context user can still use this outlet, and the non-social user can make a non-pressured decision about how they feel, potentially satisfying the usage intent of the 'social' user.
+
+<b>Both users are using the application as a social outlet</b>
+Both users expect the other user is using the application in the same context as them, satisfying the final condition of trust. The connection interface will allow both users to reconnect if desired, potentially satisfying both their usage intents.
+
+
 
 
 
