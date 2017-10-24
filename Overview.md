@@ -38,7 +38,7 @@ This feature was then accepted as an addition. The signup process would require 
 
 <h3>Trustmark</h3>
 Once identity is positively established. Then an objective rating system can be applied that ensures no abuse will go unpunished. Due to the nature of the application, and the dangers associated, it was decided that any abuse could not be forgiven, and would need to result in a permanent ban.</br>
-This resulted in the concept of a *TrustMark*. This is associated with each user, and is a sign that a user has not commited any offence, and has uploaded a government ID. This would be revoked if any abuse was committed.</br>
+This resulted in the concept of a <i>TrustMark</i>. This is associated with each user, and is a sign that a user has not commited any offence, and has uploaded a government ID. This would be revoked if any abuse was committed.</br>
 
 <h4>Development</h4>
 The idea of the trust mark was further developed by creating a set of criteria that must be met to ensure that a TrustMark would be retained. These were made as objective as possible to reduce the scope for abuse. The initial criteria decided on were:
@@ -167,6 +167,6 @@ High fidelity testing with this change implemented showed that the reception of 
 <h6>Changes on the Connections Interface</h6>
 </td></tr>
 <tr><td>
-<a href="http://rft.io/deco3500/overview/change01.png><img src="http://rft.io/deco3500/overview/change02.png"></img></a></br>
+<a href="http://rft.io/deco3500/overview/change02.png><img src="http://rft.io/deco3500/overview/change02.png"></img></a></br>
 </td></tr>
 </table>
