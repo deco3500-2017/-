@@ -1,7 +1,5 @@
 <h1>What is this</h1>
 This file follows the whole design process for Project Moonlight, with design aspects highlighted to ensure ease of marking.
-</br></br>
-<h1>Stages</h1>
 
 <h2>Initial Idea</h2>
 The initial idea of Moonlight was to promote a feeling of safety by better connecting people with a geographical proximity. The use case driving this application was the concept of <i>someone wanting someone else to walk them to their car after a late lecture</i>. The key target was an application that would allow people to feel safer.
@@ -59,10 +57,10 @@ It was found during prototyping that users liked the idea of a TrustMark and fou
 
 <table>
 <tr><td>
-<img src="http://rft.io/deco3500/overview/change01.png"></img></br>
+<h6>Changes on the Rate My Helper interface</h6>
 </td></tr>
 <tr><td>
-<h6>Changes on the Rate My Helper interface</h6>
+<img src="http://rft.io/deco3500/overview/change01.png"></img></br>
 </td></tr>
 </table>
 
