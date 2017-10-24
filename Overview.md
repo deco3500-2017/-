@@ -54,7 +54,7 @@ The idea of the trust mark was further developed by creating a set of criteria t
 
 <h4>Reception</h4>
 It was found during prototyping that users liked the idea of a TrustMark and found most of the criteria agreable. However, the criteria <i>my helper requested consent before engaging in any activity that involved physical interaction</i> was flagged as unnecescary by users, as if the help request was for this type of activity, it would be implicit.
-
+</br>
 <table>
 <tr><td>
 <h6>Changes on the Rate My Helper interface</h6>
