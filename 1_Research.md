@@ -97,13 +97,14 @@ Features
 - Communication: AirTasker provides an in-app messaging service to facilitate communication between users. Also included is the ability to make private phone calls through the app.  
 - AirTasker Pay: a secure way to pay via the use of the AirTasker system. Once a job is selected the funds are transferred into a holding account which is then passed along to the AirTasker Worker, once the job is complete. 
 
-<h2>In-app Currency & Karma</h2>
-<h3>Elo Rating system</h3>
-<a href="https://en.wikipedia.org/wiki/Elo_rating_system">Wikipedia:Elo Rating</a>
-
 <h1>UQ Security & Safety</h1>
+
+As part of the research process, UQ Security was directly contacted with the aim of consultation. Unfortunately, the UQ Security team excused themselves for being unable to dedicate their time to assist in a substantial capacity. However, UQ Security did show the team the variety of online resources that they offer. These resources were useful for the team, as it allowed us to see what concerns UQ Security had in regards to campus safety. As university campuses were a primary use case location for the team, this was particularly relevant.
+
 <h2>UQ Uni Safety</h2>
 https://www.pf.uq.edu.au/unisafe/index.html
+<br>
+UQ Properties and Facilities maintains an online repository of safety tips and resources. 
 
 <h2>UQ Pedestrian Paths in Darkness</h2>
 https://www.pf.uq.edu.au/maps/security/01PedestrianPaths.pdf
