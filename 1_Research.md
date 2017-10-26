@@ -28,8 +28,8 @@ Uber places a great amount of importance not only onto the rider's safety, but a
 <b>After the Trip</b>
 - Automated payments: once a trip is completed, the fare is charged to the rider's selected method of payment (e.g. Paypal), removing both the need to carry cash, and the potential dangers that are associated with it.
 
-<h3>Rider Safety</h3><br>
-https://www.uber.com/en-AU/ride/safety/
+<h3>Rider Safety</h3>
+https://www.uber.com/en-AU/ride/safety/<br>
 Rider safety is one of Uber's top concerns. To ensure that all riders are safe, a number of security features have been designed to ensure that everyone is kept safe during every phase of the service.<br>
 
 <b>Before the Trip</b>
@@ -57,12 +57,12 @@ Guidelines
 
 <h2>AirBnB</h2>
 <h3>Trust</h3>
-https://www.airbnb.com.au/trust<br>
+https://www.airbnb.com.au/trust
 <b>Features</b>
 - Identification: guests and hosts have the ability to scan and connect a government ID to their Airbnb accounts.
 - Profiles & Reviews: hosts are able to distinguish themselves from the rest by providing detailed, well written profiles and receiving positive, verified reviews.
 - In-App Messaging: users can initially can only contact each other through the Airbnb messaging service. This enables them to ensure that users don't use their platform to find accomodation and then contact the host directly in order to avoid commission. It also ensures that all communication is on file with Airbnb if their is a dispute. 
-- Secure payment platform: all payments are handled through Airbnb's payment platform. Guests pay through Airbnb when they book a listing. Hosts receive payment 24 hours after a guest has checked in. 
+- Secure payment platform: all payments are handled through Airbnb's payment platform. Guests pay through Airbnb when they book a listing. Hosts receive payment 24 hours after a guest has checked in.
 - Hosts are covered by insurance: Airbnb protects its hosts with a Host Guarantee of upto $1,000,000 AUD.
 - 24/7 support: world class support is offered around the clock, anywhere in the world. 
 
@@ -88,16 +88,14 @@ Findings
 <h2>AirTasker</h2>
 <h3>How it Works</h3>
 https://www.airtasker.com/how-it-works/
+AirTasker is perhaps the closest app to Moonlight in terms of the service that it provides. AirTasker allows people to post tasks they would like completed along with a price they would like to pay. Those willing to help (known as Airtaskers) can then bid display their interest in the job, and the person who posted the job selects someone to complete it. 
 <br>
 Features
-<br>
-- Insurance
-<br>
-- Complete customer support
-<br>
-- Rating & Reviews
-<br>
-- Communication: In-App messaging and on platform private calls
+- Insurance: AirTask insurance provides covers for the AirTasker worker whilst performing certain activities for liability to third parties for personal or property damage.
+- Customer support: a comprehensive help center is provided for users to search for any help required, with a customer support team available to those users who remain stuck.
+- Ratings and reviews: AirTaskers are reviewed on their performance after each service to ensure that users can select the right person for their job.
+- Communication: AirTasker provides an in-app messaging service to facilitate communication between users. Also included is the ability to make private phone calls through the app.  
+- AirTasker Pay: a secure way to pay via the use of the AirTasker system. Once a job is selected the funds are transferred into a holding account which is then passed along to the AirTasker Worker, once the job is complete. 
 
 <h2>In-app Currency & Karma</h2>
 <h3>Elo Rating system</h3>
