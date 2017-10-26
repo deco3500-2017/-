@@ -1,7 +1,7 @@
 "Rather, we want you to synthesise what your research has told you and quote studies, sources, observations to support your claims. Photos are a great way to show use context."
 
 <h1>Similar Application Analysis</h1>
-The purpose of this document is to research other apps and services that share similarities to Moonlight in terms of functionality, security, and trust. The aim is to utilize the research and experiences (both positive and negative) of other successful companies in order to leverage this information and ensure that Moolight can provide its users with the best possible service and experience. The information contained in this document will be used alongside extensive user testing to ensure that Moonlight is a success. 
+The purpose of this document is to research other apps and services that share similarities to Moonlight in terms of functionality, security, and trust. The aim is to leverage the research and experiences (both positive and negative) of other companies in order to ensure that Moolight can provide its users with the best possible service and experience.
 
 <h2>Uber</h2>
 <h3>Community Benefits</h3>
@@ -11,8 +11,7 @@ Uber has successfully established itself as an organisation centred around safet
 Uber has made their service accessable 24/7, so they are always available. Furthermore, emphasis is placed on Uber's ability to operate in times of emergency as they are heavily relied upon to transport customers to a safe destination. In addition, Uber utilizes its extensive network of driver partners during times of emergency by using its Uber Partner app to send AMBER alters (child abduction) to all drivers who are online, because in their own words:<br>
 "the more eyes we have on the road, the safer we all are."
 
-<b>Conclusions</b>
-Uber's focus is clearly on improving the communities in which they operate, not just providing a successful taxi service. This mindset is undoubtedly one of the main driving forces behind the company's success. Similarly, Moonlight will take the approach of improve saftey in the communities in which it is present. Initially the app will focus mostly on connecting members of the community to increase safety and mitigate potentially unsafe situations. However, it is critical to the success of Moonlight as a company that mindset be towards always improving community safety through whatever means possible, not just constrained to providing a successful app based service. That being said, the remainder of this document will focus specifically on functionality, security, and trust critical to the initiall success of Moonlight as a mobile application.
+<b>conclusions:</b> Uber's focus is clearly on improving the communities in which they operate, not just providing a successful taxi service. This mindset is undoubtedly one of the main driving forces behind the company's success. Similarly, Moonlight will take the approach of improve saftey in the communities in which it is present. Initially the app will focus mostly on connecting members of the community to increase safety and mitigate potentially unsafe situations. However, it is critical to the success of Moonlight as a company that mindset be towards always improving community safety through whatever means possible, not just constrained to providing a successful app based service. That being said, the remainder of this document will focus specifically on functionality, security, and trust critical to the initial success of Moonlight as a mobile application.
 
 <h3>Driver Safety</h3>
 https://www.uber.com/en-AU/drive/safety/<br>
@@ -20,16 +19,14 @@ Uber places a great amount of importance not only onto the rider's safety, but a
 
 <b>Before the Trip</b>
 - No anonymous pickups: all riders are required to create an account and provide their name and phone number as a minimum before they are able to request a ride. They are also able to link social accounts and provide a profile picture of themselves. This way, when a driver is picking up a rider they will know who they are and so will Uber.
-<i>The requirement for both rider profiles which require name and phone number as a minimum allows for a base line level of security. Riders can also provide additional information optionally, further increaseing security through the removal of anonymity. This simultaneously increases trust between Riders and Drivers as an added benefit.</i>
-- Substitute phone numbers: in many of the locations in which Uber operates around the world they utilize technology that anonymizes rider and driver phone numbers so that they are able to call and message each other while keeping their personal information private. 
+- Substitute phone numbers: in many of the locations in which Uber operates around the world they utilize technology that anonymizes rider and driver phone numbers so that they are able to call and message each other while keeping their personal information private.
 
 <b>During the Trip</b>
 - In-app navigation: the Uber app automates the navigation system. When a rider initially orders an Uber they set the destination, once they are picked up by a driver the Uber app automatically provides turn by turn navigation so that drivers can focus on reaching the destination safely.
 - Always on the map: GPS data from both the driver and rider's mobile devices is logged so that Uber knows who the driver and riders are and where they are going. This promotes accountability and encourages good behaviour. 
 
 <b>After the Trip</b>
-- Automated payments: once a trip is completed, the fare is charged to the rider's selected method of payment (e.g. Paypal), removing both the need to carry cash, and the potential dangers that are associated with it. 
-- 24/7 Driver support: Uber's customer service representatives are available 24/7 to ensure that any issues are resolved in a timely manner.
+- Automated payments: once a trip is completed, the fare is charged to the rider's selected method of payment (e.g. Paypal), removing both the need to carry cash, and the potential dangers that are associated with it.
 
 <h3>Rider Safety</h3><br>
 https://www.uber.com/en-AU/ride/safety/
@@ -60,18 +57,18 @@ Guidelines
 
 <h2>AirBnB</h2>
 <h3>Trust</h3>
-https://www.airbnb.com.au/trust
-Features
-- Identification
-- Profiles & Reviews
-- In-App Messaging
-- Secure payment platform
-- Hosts are covered by insurance
-- 24/7 support
+https://www.airbnb.com.au/trust<br>
+<b>Features</b>
+- Identification: guests and hosts have the ability to scan and connect a government ID to their Airbnb accounts.
+- Profiles & Reviews: hosts are able to distinguish themselves from the rest by providing detailed, well written profiles and receiving positive, verified reviews.
+- In-App Messaging: users can initially can only contact each other through the Airbnb messaging service. This enables them to ensure that users don't use their platform to find accomodation and then contact the host directly in order to avoid commission. It also ensures that all communication is on file with Airbnb if their is a dispute. 
+- Secure payment platform: all payments are handled through Airbnb's payment platform. Guests pay through Airbnb when they book a listing. Hosts receive payment 24 hours after a guest has checked in. 
+- Hosts are covered by insurance: Airbnb protects its hosts with a Host Guarantee of upto $1,000,000 AUD.
+- 24/7 support: world class support is offered around the clock, anywhere in the world. 
 
 <h3>Designing for Trust</h3>
 https://airbnb.design/how-airbnb-designs-for-trust/
-Findings
+<b>Findings</b>
  - Focus isn't on users trusting the company, but on trusting each other
  - "Design" as the mututal friend
  - AirBnB as a facilitator of social interactions
