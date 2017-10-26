@@ -196,5 +196,15 @@ However, due to the social stigmas associated with engaging conversations with s
 
 <h3>Implementation</h3>
 This feature manifested in the 'Hello' feature set. The helo feature set would function in a similar way to help requests, although would only match a user with other people in the area also using the Hello feature. This would be opt in however, with the possibility of subscribing to these events even if you were not using the feature itself directly.
+</br>
+<table>
+<tr><td>
+<h6>Primary Features Exposed</h6>
+</td></tr>
+<tr><td>
+<a href="http://rft.io/deco3500/overview/feature04.png"><img src="http://rft.io/deco3500/overview/feature04.png"></img></a></br>
+</td></tr>
+</table>
+
 
 
