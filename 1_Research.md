@@ -126,12 +126,43 @@ UQ does offer security escorts to public transport or a vehicle during darkness.
 <br>
 - "Trust is important because it helps consum-ers overcome perceptions of uncertainty and risk and engage in "trust-related behaviors”; in short,trust behavior. "
 
-<h2>References</h2>
+<h2>Building and Establishing Trust &#x1F416;&#x1F416;&#x1F416;</h2>
+Trust as a term came into widespread usage in 1560, defined as an attitude that we have towards others we hope will be trustworthy [1], with trustworthiness being a property expressed by certain people. The definition of trustworthiness varies, from being worthy of confidence or dependable [2], to the quality of always being good, honest, sincere or otherwise [3].
+
+For the purpose of our product, we are concerned particularly with what makes people trust others. Trust can be unconscious or conscious (tactic) [4], but regardless of the nature there are four elements required for trusting. Trust requires that the trustor be vulnerable to the trustee, that the trustor thinks well of the trustee in some domain, that the trustor is optimistic the trustee is competent in some respect, and that the trustor is optimistic the trustee will have a certain motive for acting [1].
+
+The first difficulty in establishing trust with unknown parties is the trustee must accept a certain level of risk [5]. In addition, checks and balances imposed by the trustee that seek to limit their exposure to risk do not increase their ability to trust others, instead reducing the trust between the trustor and trustee [6]. As such, any proposed solution would require a means to impose restrictions that did not undermine the fundamental requirements of trust.
+
+This first requirement can be addressed quite simply when one considers the difference between trust and safety. Safety is defined as “the condition of being safe from undergoing or causing hurt, injury, or loss” [7]. By promoting the safety of the application instead of the trustworthiness of the trustee, trust can be allowed to develop naturally, while still ensuring safe use. The incentives for using the application then promote people to accept this vulnerability, in turn establishing trust.
+
+The key is the balance between the motivation to use the application, and people’s aversion to vulnerability, or risk. Risk aversion is a property observed in economics, where human behaviour leads decisions to be made favouring situations with a lower expected payoff, over a higher expected payoff as a result of the risk associated with the latter [8].
+
+The military has performed extensive research on risk aversion in order to promote initiative. Several factors were found to encourage people to overcome risk aversion, the first being leading by example [9] which fits within the context of social learning theory [10].
+
+This is promising for the application, as by ensuring the application is “safe”, human behaviour will naturally provide the first requirement of trust. Initially, those users who are less risk averse will use the application, as the motivation to use the application will outweigh their aversiveness. Over time, others who are more risk averse will observe this behaviour, causing the balance to shift towards use of the application, and in turn, the natural establishment of trust.
+
+The next barrier to overcome in establishing natural trust is that the trustor thinks well of the trustee in some domain, and the trustor is optimistic the trustee is competent in some respect. This is easily provided by the application through its request response architecture.
+
+The application will not provide request for help to those it does not feel will share fundamental values, and people will not respond to requests for help if they do not feel they will be able to competently complete them. This allows users to trust the competency of those responding to requests for help.
+
+Finally, the requirement that the trustor expects the trustee to have a certain motive for acting. This is more difficult for the product, as ulterior motives of a malicious or non-malicious intent may exist. However, application policy can help to mitigate these motives, by providing strict guidelines on the behaviour of helpers, and penalising any reported breaches harshly. This ensures that the trustor’s perception of the trustees motive, whether it is correct or not, aligns with their expectations and will not be challenged by the trustee.
+
+
+<h2>References &#x1F428;&#x1F428;&#x1F428;</h2>
+
+[1] Stanford University, "Trust," Stanford Encyclopedia of Philosophy, 03 08 2015. [Online]. Available: https://plato.stanford.edu/entries/trust/#NatTruTru. [Accessed 28 08 2017].<br>
+[2] Merriam-Webster, "Definition of trustworthy," Merriam-Webster, [Online]. Available: https://www.merriam-webster.com/dictionary/trustworthy. [Accessed 28 08 2017].<br>
+[3] Oxford University, "Trustworthiness," Oxford Learner's Dictionaries, [Online]. Available: http://www.oxfordlearnersdictionaries.com/definition/english/trustworthiness?q=trustworthiness. [Accessed 28 08 2017].<br>
+[4] O. Lagerspetz, Trust: the tacit demand, Boston: Kluwer Academic Publishers, 1998.<br>
+[5] L. C. Becker, "Trust as Noncognitive Security about Motives," Ethics, vol. 107, no. 1, pp. 43-61, 1996.<br>
+[6] P. Dasgupta, "Trust as a Commodity," Trust: Making and Breaking Cooperative Relations, pp. 49-72, 1988.<br>
+[7] Merriam-Webster, "Definition of safety," Merriam-Webster, [Online]. Available: https://www.merriam-webster.com/dictionary/safety. [Accessed 28 08 2017].<br>
+[8] Harvard University, "Risk," Harvard University - The Bridge, [Online]. Available: https://cyber.harvard.edu/bridge/LawEconomics/risk.htm. [Accessed 28 08 2017].<br>
+[9] P. Maj. Lynn Marie Breckenridge, "Curbing the "Helicopter Commander"," Army University Press, 07 2017. [Online]. Available: http://www.armyupress.army.mil/Journals/Military-Review/English-Edition-Archives/July-August-2017/Breckenridge-Curbing-the-Helicopter-Commander/. [Accessed 28 08 2017].<br>
+[10] A. Bandura, "Social-Learning Theory Of Identificatory Processes," in Handbook of Socialization Theory and Research, Stanford, Stanford University, 1969, pp. 213-262.<br>
+
 Yan, Z., Dong, Y., Niemi, V. and Yu, G. (2013), Exploring trust of mobile applications based on user behaviors: an empirical study. J Appl Soc Psychol, 43: 638–659. doi:10.1111/j.1559-1816.2013.01044.x
 <br>
 Ert, Fleischer, & Magen. (2016). Trust and reputation in the sharing economy: The role of personal photos in Airbnb. Tourism Management, 55, 62-73.
 
 Abrahao, B., Parigi, P., Gupta, A., & Cook, K. (2017). Reputation offsets trust judgments based on social biases among Airbnb users. Proceedings of the National Academy of Sciences of the United States of America, Proceedings of the National Academy of Sciences of the United States of America, 28 August 2017.
-
-
-<code>IEEE standard and link in-text to here.</code>
