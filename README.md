@@ -14,6 +14,7 @@
 <strong><i>Course:</i>&ensp;&#x1F31F;&ensp;DECO3500 Social & Mobile Computing&ensp;&#x1F31F;</strong><br>
 <strong><i>Link to Prototype:</i>&ensp;&#x1F31F;&ensp;http://ml.rft.io/ &ensp;&#x1F31F;</strong><br>
 <strong><i>Link to Promotional Website:</i>&ensp;&#x1F31F;&ensp;http://moonlight.rft.io/ &ensp;&#x1F31F;</strong><br>
+<strong><i>Link to Informational Poster:</i>&ensp;&#x1F31F;&ensp;https://github.com/deco3500-2017/-/blob/master/Show%20Poster.md &ensp;&#x1F31F;</strong><br>
 <br>
 <table>
 <tr>
