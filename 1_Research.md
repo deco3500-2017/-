@@ -128,7 +128,7 @@ UQ does offer security escorts to public transport or a vehicle during darkness.
 
 <h2>References</h2>
 Yan, Z., Dong, Y., Niemi, V. and Yu, G. (2013), Exploring trust of mobile applications based on user behaviors: an empirical study. J Appl Soc Psychol, 43: 638–659. doi:10.1111/j.1559-1816.2013.01044.x
-
+<br>
 Ert, Fleischer, & Magen. (2016). Trust and reputation in the sharing economy: The role of personal photos in Airbnb. Tourism Management, 55, 62-73.
 
 Abrahao, B., Parigi, P., Gupta, A., & Cook, K. (2017). Reputation offsets trust judgments based on social biases among Airbnb users. Proceedings of the National Academy of Sciences of the United States of America, Proceedings of the National Academy of Sciences of the United States of America, 28 August 2017.
