@@ -162,6 +162,8 @@ Interviews and user testing will be completed on campus.<br><br>
 
 Beyond this point due to the iterative nature of the design process, it is difficult to predict how progress will occur. The final goal will be a single component of the application integrated and fully tested, with results analysed.
 
+<h2>Research</h2>
+https://github.com/deco3500-2017/-/blob/master/1_Research.md
 
 <h2>Building and Establishing Trust &#x1F416;&#x1F416;&#x1F416;</h2>
 Trust as a term came into widespread usage in 1560, defined as an attitude that we have towards others we hope will be trustworthy [1], with trustworthiness being a property expressed by certain people. The definition of trustworthiness varies, from being worthy of confidence or dependable [2], to the quality of always being good, honest, sincere or otherwise [3].
