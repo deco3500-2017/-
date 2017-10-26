@@ -1,4 +1,4 @@
-<h1 align="center">&#x1F3F3;&ensp;Project Proposal&ensp;&#x1F3F3;</h1>
+<h1 align="center">&#x1F3F3;&ensp;Project Overview&ensp;&#x1F3F3;</h1>
 <p align="center">
 <img src="https://raw.githubusercontent.com/deco3500-2017/_/master/T4F6E28DA-U4HP28HB8-f6c7da0c3fbb-512.png"></img>
 <img src="https://raw.githubusercontent.com/deco3500-2017/_/master/T4F6E28DA-U4HP28HB8-f6c7da0c3fbb-512.png"></img>
