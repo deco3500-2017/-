@@ -1,6 +1,3 @@
-<h1>Research</h1>
-"Rather, we want you to synthesise what your research has told you and quote studies, sources, observations to support your claims. Photos are a great way to show use context."
-
 <h1>Similar Application Analysis</h1>
 The purpose of this document is to research other apps and services that share similarities to Moonlight in terms of functionality, security, and trust. The aim is to leverage the research and experiences (both positive and negative) of other companies in order to ensure that Moolight can provide its users with the best possible service and experience.
 
