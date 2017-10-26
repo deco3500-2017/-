@@ -31,7 +31,7 @@
 <tr><td>Luke Giuseppin</td><td>4266448</td></tr>
 </table>
 <hr>
-<h2>Introduction &#x1F415;&#x1F415;&#x1F415;</h2>
+<h2>Summary &#x1F415;&#x1F415;&#x1F415;</h2>
 Moonlight is a location based assistance application with the intention of solving the fundamental issues associated with receiving help from unknown parties and establishing trust. The basic application will allow users to request general assistance, reach out to find others to interact with socially, and receive help in emergency situations. 
 
 The primary dilemma addressed by the application is how to establish a sense of community with others in your area. The app will seek to create and nurture mutually beneficial relationships with these people, without prior establishment of trust.
@@ -115,7 +115,7 @@ If this fails to stop the team member from causing conflict, or shirking their r
 If the team member continues to have poor performance, or causes conflict, then escalation might be required in the form of informing a tutor, or the lecturer.
 
 
-<h2>Plan &#x1F408;&#x1F408;&#x1F408;</h2>
+<h2>Process &#x1F408;&#x1F408;&#x1F408;</h2>
 <h3>Phases</h3>
 The project will be undertaken in four distinct stages.
 
