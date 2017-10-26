@@ -199,12 +199,24 @@ This feature manifested in the 'Hello' feature set. The helo feature set would f
 </br>
 <table>
 <tr><td>
-<h6>Primary Features Exposed</h6>
+<h6>Primary Features Exposed by Application</h6>
 </td></tr>
 <tr><td>
 <a href="http://rft.io/deco3500/overview/feature04.png"><img src="http://rft.io/deco3500/overview/feature04.png"></img></a></br>
 </td></tr>
 </table>
 
+<h3>Reception</h3>
+Reception for this feature was overwhelmingly positive, with many testers using, or indicating that they would use this feature before using the assistance feature. The initial expansions tested such as conversation starters in application (during the mockups stage)  Although this was not the primary target feature for development, it poses an interesting avenue to explore in greater detail.
 
-
+<h2>Second Round Interviews</h2>
+A second round of interviews were conducted, and this revealed a number of changes that would be required as well as providing valuable insight.
+</br>
+<table>
+<tr><td>
+<h6>Changes to assistance request</h6>
+</td></tr>
+<tr><td>
+<a href="http://rft.io/deco3500/overview/change05.png"><img src="http://rft.io/deco3500/overview/change05.png"></img></a></br>
+</td></tr>
+</table>
