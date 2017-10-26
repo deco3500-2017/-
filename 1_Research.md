@@ -1,3 +1,4 @@
+<h1>Research</h1>
 "Rather, we want you to synthesise what your research has told you and quote studies, sources, observations to support your claims. Photos are a great way to show use context."
 
 <h1>Similar Application Analysis</h1>
