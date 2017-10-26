@@ -23,12 +23,13 @@
 <tr>
 <th>Name</th>
 <th>Student No.</th>
+<th>Contribution</th>
 </tr>
-<tr><td>Matthew Lovegrove</td><td>4319304</td></tr>
-<tr><td>Craig Johnson</td><td>4397946</td></tr>
-<tr><td>Liam Daly Manocchio</td><td>4390545</td></tr>
-<tr><td>Sean Mackenzie</td><td>4355285</td></tr>
-<tr><td>Luke Giuseppin</td><td>4266448</td></tr>
+<tr><td>Matthew Lovegrove</td><td>4319304</td><td>User Testing, Research</td></tr>
+<tr><td>Craig Johnson</td><td>4397946</td><td>Graphic Design, Poster Production</td></tr>
+<tr><td>Liam Daly Manocchio</td><td>4390545</td><td>Prototype Development, User Testing</td></tr>
+<tr><td>Sean Mackenzie</td><td>4355285</td><td>Research</td></tr>
+<tr><td>Luke Giuseppin</td><td>4266448</td><td>Academic Research, Field Research, Website development</td></tr>
 </table>
 <hr>
 <h2>Summary &#x1F415;&#x1F415;&#x1F415;</h2>
