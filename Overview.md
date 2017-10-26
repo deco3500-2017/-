@@ -195,4 +195,6 @@ Further discussion promoted the idea that users primarily using the application 
 However, due to the social stigmas associated with engaging conversations with stranger's this is not always possible. This application could provide a judgement-free environment to facilitate this, where a positive and judgement-free environment could be enforced through the TrustMark. This would provide a unique opportunity to bundle the utility of general assistance, along with the potential benefits of social assistance (feeling like there is always someone there, no matter what type of help is required).
 
 <h3>Implementation</h3>
-This feature manifested in the 'Hello' feature set. 
+This feature manifested in the 'Hello' feature set. The helo feature set would function in a similar way to help requests, although would only match a user with other people in the area also using the Hello feature. This would be opt in however, with the possibility of subscribing to these events even if you were not using the feature itself directly.
+
+
