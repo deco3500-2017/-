@@ -1,15 +1,15 @@
 <h1>Similar Application Analysis</h1>
-As mentioned in the ReadMe file, research is the first phase in this project. The purpose of this document is to outline all of research that has been made into other apps and services that share similar functionality, security, and trust features. This research is being conducted with the aim being to leverage the research and experiences (both positive and negative) of other companies in order to ensure that Moolight can provide its users with the best possible service and experience.
+As mentioned in the ReadMe file, research is the first phase in this project. The purpose of this document is to outline all of research that has been made into other apps and services that share similar functionality, security, and trust features. This research is being conducted with the aim being to leverage the research and experiences (both positive and negative) of other companies in order to ensure that Moonlight can provide its users with the best possible service and experience.
 
 <h2>Uber</h2>
 <h3>Community Benefits</h3>
 https://www.uber.com/en-AU/safety/<br>
-Uber has successfully established itself as an organisation centred around safety and ensuring the satisfaction of its drivers and riders alike. They have taken the initiative to ensure that they have a positive impact in every community in which they operate, and consistently reach outside the bounds of their job desciption in order to achieve this. Studies have revealed a strong correlation between Uber's presence in cities and a reduction in the amount of drunk driving.<br>
+Uber has successfully established itself as an organisation centred around safety and ensuring the satisfaction of its drivers and riders alike. They have taken the initiative to ensure that they have a positive impact in every community in which they operate, and consistently reach outside the bounds of their job description in order to achieve this. Studies have revealed a strong correlation between Uber's presence in cities and a reduction in the amount of drunk driving.<br>
 
-Uber has made their service accessable 24/7, so they are always available. Furthermore, emphasis is placed on Uber's ability to operate in times of emergency as they are heavily relied upon to transport customers to a safe destination. In addition, Uber utilizes its extensive network of driver partners during times of emergency by using its Uber Partner app to send AMBER alters (child abduction) to all drivers who are online, because in their own words:<br>
+Uber has made their service accessible 24/7, so they are always available. Furthermore, emphasis is placed on Uber's ability to operate in times of emergency as they are heavily relied upon to transport customers to a safe destination. In addition, Uber utilizes its extensive network of driver partners during times of emergency by using its Uber Partner app to send AMBER alters (child abduction) to all drivers who are online, because in their own words:<br>
 "the more eyes we have on the road, the safer we all are."
 
-<b>Conclusions:</b> Uber's focus is clearly on improving the communities in which they operate, not just providing a successful taxi service. This mindset is undoubtedly one of the main driving forces behind the company's success. Similarly, Moonlight will take the approach of improving saftey in the communities in which it is present. Initially the app will focus mostly on connecting members of the community to increase safety and mitigate potentially unsafe situations. However, it is critical to the success of Moonlight as a company that mindset be focused towards always improving community safety through whatever means possible, not just constrained to providing a successful app based service. That being said, the remainder of this document will focus specifically on functionality, security, and trust critical to the initial success of Moonlight as a mobile application.
+<b>Conclusions:</b> Uber's focus is clearly on improving the communities in which they operate, not just providing a successful taxi service. This mindset is undoubtedly one of the main driving forces behind the company's success. Similarly, Moonlight will take the approach of improving safety in the communities in which it is present. Initially the app will focus mostly on connecting members of the community to increase safety and mitigate potentially unsafe situations. However, it is critical to the success of Moonlight as a company that mindset be focused towards always improving community safety through whatever means possible, not just constrained to providing a successful app based service. That being said, the remainder of this document will focus specifically on functionality, security, and trust critical to the initial success of Moonlight as a mobile application.
 
 <h3>Driver Safety</h3>
 https://www.uber.com/en-AU/drive/safety/<br>
@@ -29,7 +29,7 @@ Uber places a great amount of importance not only onto the rider's safety, but a
 
 <b>After the Trip</b>
 <ul>
-<li>Automated payments: once a trip is completed, the fare is charged to the rider's selected method of payment (e.g. Paypal), removing both the need to carry cash, and the potential dangers that are associated with it.</li>
+<li>Automated payments: once a trip is completed, the fare is charged to the rider's selected method of payment (e.g. PayPal), removing both the need to carry cash, and the potential dangers that are associated with it.</li>
 </ul>
 
 <h3>Rider Safety</h3>
@@ -71,11 +71,11 @@ https://www.uber.com/en-AU/legal/community-guidelines/us-en/
 Much can be learnt from the way Uber operates, both in terms of functionality and mindset. Similar to Uber, Moonlight will place the safety of its users as the most important goal, always. Functionality to be included in Moonlight:
 <ul>
 <li>User profiles: all users will be required to include their name, phone number, and a profile picture at a minimum. This will increase security and also enable users to feel more comfortable with those they meet through the app with the removal of anonymity. </li>
-<li>In app navigation: both those helping and those receving help will be provided with in app navigation. This will help them to easliy find each other while also collecting GPS data in the Moonlight database as an added security measure. This will act as a deterrant to those who might seek to misuse the app, and in the event that something does go wrong, the information is available to rectify the issue. </li>
+<li>In app navigation: both those helping and those receiving help will be provided with in app navigation. This will help them to easily find each other while also collecting GPS data in the Moonlight database as an added security measure. This will act as a deterrent to those who might seek to misuse the app, and in the event that something does go wrong, the information is available to rectify the issue. </li>
 <li>Safe pick-ups: the Moonlight app will require the person offering to help to travel to the location of the person who has requested help. This will mean that they are kept safely where they are until help arrives. </li>
 <li>Open to everyone: the Moonlight will be available to anyone who would seek to use it. The only requirement is a smartphone with the ability to run the app. </li>
 <li>Share ETA/always on the map: the ability to share your ETA or in Moonlight's case, estimate time of completion, and current position is undoubtedly an important and useful security feature. While we will not seek to implement this functionality in the initial prototypes, it is a feature that will be explored and most likely implemented in future iterations.</li>
-<li>Rapid response: in the event of an urgent situation occuring, users will have the ability to use the emergency function, which will alert all registered users in the area of the persons situation and their location. This will mean they are able to come and help at the touch of a button.</li>
+<li>Rapid response: in the event of an urgent situation occurring, users will have the ability to use the emergency function, which will alert all registered users in the area of the persons situation and their location. This will mean they are able to come and help at the touch of a button.</li>
 </ul>
 
 <h2>AirBnB</h2>
@@ -85,9 +85,9 @@ https://www.airbnb.com.au/trust<br>
 <ul>
 <li>Identification: guests and hosts have the ability to scan and connect a government ID to their Airbnb accounts.</li>
 <li>Profiles & Reviews: hosts are able to distinguish themselves from the rest by providing detailed, well written profiles and receiving positive, verified reviews.</li>
-<li>In-App Messaging: users can initially can only contact each other through the Airbnb messaging service. This enables them to ensure that users don't use their platform to find accomodation and then contact the host directly in order to avoid commission. It also ensures that all communication is on file with Airbnb if their is a dispute.</li> 
+<li>In-App Messaging: users can initially can only contact each other through the Airbnb messaging service. This enables them to ensure that users don't use their platform to find accommodation and then contact the host directly in order to avoid commission. It also ensures that all communication is on file with Airbnb if their is a dispute.</li> 
 <li>Secure payment platform: all payments are handled through Airbnb's payment platform. Guests pay through Airbnb when they book a listing. Hosts receive payment 24 hours after a guest has checked in.</li>
-<li>Hosts are covered by insurance: Airbnb protects its hosts with a Host Guarantee of upto $1,000,000 AUD.</li>
+<li>Hosts are covered by insurance: Airbnb protects its hosts with a Host Guarantee of up to $1,000,000 AUD.</li>
 <li>24/7 support: world class support is offered around the clock, anywhere in the world. </li>
 </ul>
 
@@ -96,9 +96,9 @@ https://airbnb.design/how-airbnb-designs-for-trust/<br>
 <b>Findings</b>
 <ul>
 <li>Focus isn't on users trusting the company, but on trusting each other</li>
-<li>"Design" as the mututal friend</li>
+<li>"Design" as the mutual friend</li>
 <li>AirBnB as a facilitator of social interactions</li>
-<li>First impressions are important (more than half of airbnb customers are first time users at any one time)</li>
+<li>First impressions are important (more than half of AirBnB customers are first time users at any one time)</li>
 </ul>
 
 <h3>Standards and Expectations</h3>
@@ -107,12 +107,19 @@ https://www.airbnb.com.au/standards
 <h3>Establishing Trust</h3>
 <b>Findings</b>
 <ul>
-<li>Users place emphasis on host photos when evaluating how trustworthy accomodation is.</li>
-<li>Users place more weight behind a hosts profile picture, than the ratings of the accomodation.</li>
-<li>Profile photos are increasingly the deciding factor, when review scores for accomodation options are similar.</li>
-<li>"Trustworthiness" of photos directly relates to prices of accomodation and likelyhood of being chosen.</li>
+<li>Users place emphasis on host photos when evaluating how trustworthy accommodation is.</li>
+<li>Users place more weight behind a hosts profile picture, than the ratings of the accommodation.</li>
+<li>Profile photos are increasingly the deciding factor, when review scores for accommodation options are similar.</li>
+<li>"Trustworthiness" of photos directly relates to prices of accommodation and likelihood of being chosen.</li>
 <li>Users are more likely to trust based on reviews, rather than social biases, even when demographic similarities are a factor.</li>
 </ul>
+
+<h3>Lessons learnt from AirBnB</h3>
+<ul>
+<li>Identification: similar to Uber, users must create a profile with their basic information. However AirBnB allows for users to upload a government issued ID. This is a substantial addition in terms of security and trust, as government ID is extremely difficult to forge. The presence of a government ID on a profile will likely give users much more confidence and trust towards people who include them.</li>
+<li>AirBnB as a facilitator of social interactions: this is the same task that is faced by Moonlight. By orientating Moonlight to be a facilitator of social interaction, the focus will be on improving interactions between users and ensuring the platform is successful by providing successful interactions.</li>
+<li>Reviews: these have been found to be one of the most influential determinants as to whether a host is chosen, and will likely be the same with the Moonlight app. Moonlight will face the added challenge of ensuring the reviews represent an objective view of the helpers performance, rather than one tainted by personal bias. </li>
+ </ul>
 
 <h2>AirTasker</h2>
 <h3>How it Works</h3>
@@ -122,10 +129,16 @@ AirTasker is perhaps the closest app to Moonlight in terms of the service that i
 <b>Features</b>
 <ul>
 <li>Insurance: AirTask insurance provides covers for the AirTasker worker whilst performing certain activities for liability to third parties for personal or property damage.</li>
-<li>Customer support: a comprehensive help center is provided for users to search for any help required, with a customer support team available to those users who remain stuck.</li>
+<li>Customer support: a comprehensive help centre is provided for users to search for any help required, with a customer support team available to those users who remain stuck.</li>
 <li>Ratings and reviews: AirTaskers are reviewed on their performance after each service to ensure that users can select the right person for their job.</li>
 <li>Communication: AirTasker provides an in-app messaging service to facilitate communication between users. Also included is the ability to make private phone calls through the app.</li>
 <li>AirTasker Pay: a secure way to pay via the use of the AirTasker system. Once a job is selected the funds are transferred into a holding account which is then passed along to the AirTasker Worker, once the job is complete.</li>
+</ul>
+
+<h3>Lessons learnt from AirTasker</h3>
+<ul>
+<li>Insurance: public liability insurance may be required depending on the nature of help being rendered by/to users. This is a factor that will be considered in more depth later in the design process.</li>
+<li>Communication: communication is facilitated through the app, this ensures personal information is kept secure and users cannot contact each other once a service is rendered unless they provide their contact information. Moonlight will incorporate similar functionality, as it is important all communication is recorded for dispute resolution and to keep users information safe</li>
 </ul>
 
 <h1>UQ Security & Safety</h1>
