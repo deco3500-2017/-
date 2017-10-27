@@ -58,7 +58,7 @@ Rider safety is one of Uber's top concerns. To ensure that all riders are safe, 
 
 <h3>Community Guidelines</h3>
 https://www.uber.com/en-AU/legal/community-guidelines/us-en/
-Guidelines
+<b>Guidelines</b>
 <ul>
 <li>Respect each other</li>
 <li>Give riders and drivers some personal space</li>
@@ -80,7 +80,7 @@ Much can be learnt from the way Uber operates, both in terms of functionality an
 
 <h2>AirBnB</h2>
 <h3>Trust</h3>
-https://www.airbnb.com.au/trust
+https://www.airbnb.com.au/trust<br>
 <b>Features</b>
 <ul>
 <li>Identification: guests and hosts have the ability to scan and connect a government ID to their Airbnb accounts.</li>
@@ -92,7 +92,7 @@ https://www.airbnb.com.au/trust
 </ul>
 
 <h3>Designing for Trust</h3>
-https://airbnb.design/how-airbnb-designs-for-trust/
+https://airbnb.design/how-airbnb-designs-for-trust/<br>
 <b>Findings</b>
 <ul>
 <li>Focus isn't on users trusting the company, but on trusting each other</li>
@@ -105,7 +105,7 @@ https://airbnb.design/how-airbnb-designs-for-trust/
 https://www.airbnb.com.au/standards
 
 <h3>Establishing Trust</h3>
-Findings
+<b>Findings</b>
 <ul>
 <li>Users place emphasis on host photos when evaluating how trustworthy accomodation is.</li>
 <li>Users place more weight behind a hosts profile picture, than the ratings of the accomodation.</li>
@@ -119,7 +119,7 @@ Findings
 https://www.airtasker.com/how-it-works/
 AirTasker is perhaps the closest app to Moonlight in terms of the service that it provides. AirTasker allows people to post tasks they would like completed along with a price they would like to pay. Those willing to help (known as Airtaskers) can then bid display their interest in the job, and the person who posted the job selects someone to complete it. 
 <br>
-Features
+<b>Features</b>
 <ul>
 <li>Insurance: AirTask insurance provides covers for the AirTasker worker whilst performing certain activities for liability to third parties for personal or property damage.</li>
 <li>Customer support: a comprehensive help center is provided for users to search for any help required, with a customer support team available to those users who remain stuck.</li>
@@ -152,6 +152,12 @@ https://www.pf.uq.edu.au/unisafe/escorts.html
 UQ does offer security escorts to public transport or a vehicle during darkness.
 
 <h1>Academic Studies</h1>
+<h2>Exploring Trust of Mobile Applications based on user behaviour</h2>
+<br>
+- "Herein, we define a user’s trust in a mobile application as his/her belief onwhether the application could fulfill a task as expected."
+<br>
+- "Trust is important because it helps consum-ers overcome perceptions of uncertainty and risk and engage in "trust-related behaviors”; in short,trust behavior. "
+
 <h2>Building and Establishing Trust &#x1F416;&#x1F416;&#x1F416;</h2>
 Trust as a term came into widespread usage in 1560, defined as an attitude that we have towards others we hope will be trustworthy [1], with trustworthiness being a property expressed by certain people. The definition of trustworthiness varies, from being worthy of confidence or dependable [2], to the quality of always being good, honest, sincere or otherwise [3].
 
@@ -186,3 +192,9 @@ Finally, the requirement that the trustor expects the trustee to have a certain 
 [8] Harvard University, "Risk," Harvard University - The Bridge, [Online]. Available: https://cyber.harvard.edu/bridge/LawEconomics/risk.htm. [Accessed 28 08 2017].<br>
 [9] P. Maj. Lynn Marie Breckenridge, "Curbing the "Helicopter Commander"," Army University Press, 07 2017. [Online]. Available: http://www.armyupress.army.mil/Journals/Military-Review/English-Edition-Archives/July-August-2017/Breckenridge-Curbing-the-Helicopter-Commander/. [Accessed 28 08 2017].<br>
 [10] A. Bandura, "Social-Learning Theory Of Identificatory Processes," in Handbook of Socialization Theory and Research, Stanford, Stanford University, 1969, pp. 213-262.<br>
+
+Yan, Z., Dong, Y., Niemi, V. and Yu, G. (2013), Exploring trust of mobile applications based on user behaviors: an empirical study. J Appl Soc Psychol, 43: 638–659. doi:10.1111/j.1559-1816.2013.01044.x
+<br>
+Ert, Fleischer, & Magen. (2016). Trust and reputation in the sharing economy: The role of personal photos in Airbnb. Tourism Management, 55, 62-73.
+
+Abrahao, B., Parigi, P., Gupta, A., & Cook, K. (2017). Reputation offsets trust judgments based on social biases among Airbnb users. Proceedings of the National Academy of Sciences of the United States of America, Proceedings of the National Academy of Sciences of the United States of America, 28 August 2017.
