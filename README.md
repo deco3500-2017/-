@@ -33,10 +33,8 @@
 <hr>
 <h2>Summary &#x1F415;&#x1F415;&#x1F415;</h2>
 Moonlight is a location based assistance application with the intention of solving the fundamental issues associated with receiving help from unknown parties and establishing trust. The basic application will allow users to request general assistance, reach out to find others to interact with socially, and receive help in emergency situations. The primary dilemma addressed by the application is how to establish a sense of community with others in your area. The app will seek to create and nurture mutually beneficial relationships with these people, without prior establishment of trust.
-
+<br>
 There are many times in life when people may feel unsafe, or in need of assistance, and interviews have suggested this occurs quite regularly. In addition, it was also found most of these situations occur when a person is alone, as although all people surveyed had established friends groups, they did not necessarily have constant access to members of this group. The rationale behind the Moonlight app is to alleviate these situations by establishing trusted connections between people in an area, allowing social connections to form, and providing access to assistance when required. 
-
-The primary differentiating function of Moonlight is the trust mark and connections components. The trust mark allows users of the application to verify, and be verified by other users as trustworthy. A rating system after each encounter will ensure only trustworthy people maintain their trust mark. The second differentiating component of Moonlight is the connections system. This allows helpers and helpees to connect again if they felt a connection, in a social or professional capacity. This promotes better communities, and research has shown giving and receiving help can aid in the establishment of trust. This provides a novel means of establishing networks, and adds motivation to using the application as a helper. 
 
 <h2>Concept &#x1F410;&#x1F410;&#x1F410;</h2>
 
