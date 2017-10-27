@@ -223,3 +223,6 @@ At this stage many of the earlier worries and pain points had already been remov
 <a href="http://rft.io/deco3500/overview/change05.png"><img src="http://rft.io/deco3500/overview/change05.png"></img></a></br>
 </td></tr>
 </table>
+
+<h2>Continuing design processs</h2>
+The design process was continued in a similar fashion, conducting high fidelity prototypes, and conducting and synthesising new research. This continued until the demonstration, where a fully functioning demo prototype was made available for people to use. The feedback during testing at the showcase was very promising.
