@@ -54,31 +54,18 @@ There are many times in life when people may feel unsafe, or in need of assistan
 <b>For a full in depth design process overview check out <a href="https://github.com/deco3500-2017/-/blob/master/Overview.md">Overview.md</a> which is an in depth summary of most of the design decisions made during the semester.</b>
 <hr>
 <h3>Phases</h3>
-The project will be undertaken in four distinct stages.
+The project was undertaken in four distinct stages.
 
-The first stage will be research. Research will be conducted as a team, and will require investigating similar applications, as well as social concepts such as trust. This will allow us to refine the target area, and begin developing a plan for requirements gathering. All members of the team will take part, with Craig and Matt investigating alternate assistance applications, Liam and Luke investigating trust, and Sean investigating target users.
+The first stage was research. Research was conducted as a team, and required investigating similar applications, as well as social concepts such as trust. 
 
-The second stage will be requirements gathering. Requirements gathering will be conducted primarily through interviews. This is due to the nature of our application, which could make observational studies risky (with the potential to cause trauma, as observations could occur in situations where people might feel unsafe).
+The second stage was requirements gathering. Requirements gathering was conducted primarily through interviews. This was due to the nature of our application, which could make observational studies risky (with the potential to cause trauma, as observations could occur in situations where people might feel unsafe). The interviews were primarily contextual interviews, with some interviews featuring laddering. Once these have been processed, and a basic set of requirements have been developed, a final round of interviews were conducted to confirm this set of requirements by presenting the requirements described as a feature and use case set.  
 
-The interviews will be primarily contextual interviews, with some interviews featuring laddering. Interviews will be conducted over a period of two weeks at the University of Queensland, and Bond University. Interviews will be initiated on the go with available people, who are receptive to being interviewed. Interviews will be designed as a team.
+Design was undertaken after requirements collection, and was based on iterative development methodologies, and rapid prototyping. Design began with digital prototyping, which were then followed by contextual interviews and observing people’s interactions with the prototype. Design was undertaken by all team members, with Liam serving as the technological consultant and control designer, Craig focusing on user interaction, Matt and Luke focusing on wireframing and Sean focusing on application flow.
 
-Interviews will be conducted from Weeks 4 to 6, and will be undertaken by Liam, Craig and Matt. Craig will collect observations at a distance, Matt will collect local observations and serve as a prop, and Liam will conduct the interview. Sean and Luke will the aid in the analysis of the results of this interview.
+Construction was done iteratively, with regular reviews conducted to ensure the product developed conformed to design expectations. To assist in reducing the expectation gap, developers were included at the wireframing stages of design to ensure the inclusion infeasible technology is limited.
 
-The initial stage of interviews will focus on the nature of trust, and how people feel with regards to safety and assistance in general. This will allow us to determine the exact requirements people have from day to day for assistance, and how best to develop an environment of trust.
+Our intention was to have a partially complete solution implemented by the end of the project. This qualified as any key component of the application such as the general assistance or social interface being implemented. The team completed this goal.
 
-The next stage of interviews will investigate how people, if provided with such an application, would use it. This will attempt to discover any features or pain points that may be present with any proposed solution.
-
-Finally, once these have been processed, and a basic set of requirements have been developed, a final round of interviews will be conducted to confirm this set of requirements by presenting the requirements described as a feature and use case set.  
-
-Design will take place after requirements collection, and will be based on iterative development methodologies, and rapid prototyping. Design will begin with digital prototyping, which will then be followed by contextual interviews and observing people’s interactions with the prototype. Design will be undertaken by all team members, with Liam serving as the technological consultant and control designer, Craig focusing on user interaction, Matt and Luke focusing on wireframing and Sean focusing on application flow.
-
-The specific design stages will be a higher-level construction, which will include the overarching features and flow of the application. The next stage will be design of the general assistance interface, followed by the social and emergency interface design. After these stages, a final review will occur before the design is finalised pending construction.
-
-Construction will also occur iteratively, with regular reviews being conducted to ensure the product being developed conforms to the design expectations. To assist in reducing the expectation gap, developers will be included at the wireframing stages of design to ensure the inclusion infeasible technology is limited.
-
-It is intended that a partially complete solution will be implemented by the end of the project. This would qualify as any key component of the application such as the general assistance or social interface being implemented.
-
-Beyond this point due to the iterative nature of the design process, it is difficult to predict how progress will occur. The final goal will be a single component of the application integrated and fully tested, with results analysed.
 
 <h2>Research</h2>
 Team research may be found at the following link:
