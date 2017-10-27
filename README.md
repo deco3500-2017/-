@@ -55,9 +55,9 @@ There are many times in life when people may feel unsafe, or in need of assistan
 <hr>
 <h3>Phases</h3>
 The project was undertaken in four distinct stages.
-</br>
+<br>
 The first stage was research. Research was conducted as a team, and required investigating similar applications, as well as social concepts such as trust. 
-</br>
+<br>
 
 The second stage was requirements gathering. Requirements gathering was conducted primarily through interviews. This was due to the nature of our application, which could make observational studies risky (with the potential to cause trauma, as observations could occur in situations where people might feel unsafe). The interviews were primarily contextual interviews, with some interviews featuring laddering. Once these have been processed, and a basic set of requirements have been developed, a final round of interviews were conducted to confirm this set of requirements by presenting the requirements described as a feature and use case set.  
 
