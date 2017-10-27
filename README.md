@@ -34,6 +34,7 @@
 <h2>Summary &#x1F415;&#x1F415;&#x1F415;</h2>
 Moonlight is a location based assistance application with the intention of solving the fundamental issues associated with receiving help from unknown parties and establishing trust. The basic application will allow users to request general assistance, reach out to find others to interact with socially, and receive help in emergency situations. The primary dilemma addressed by the application is how to establish a sense of community with others in your area. The app will seek to create and nurture mutually beneficial relationships with these people, without prior establishment of trust.
 <br>
+<br>
 There are many times in life when people may feel unsafe, or in need of assistance, and interviews have suggested this occurs quite regularly. In addition, it was also found most of these situations occur when a person is alone, as although all people surveyed had established friends groups, they did not necessarily have constant access to members of this group. The rationale behind the Moonlight app is to alleviate these situations by establishing trusted connections between people in an area, allowing social connections to form, and providing access to assistance when required. 
 
 <h2>Concept &#x1F410;&#x1F410;&#x1F410;</h2>
@@ -75,26 +76,6 @@ The specific design stages will be a higher-level construction, which will inclu
 Construction will also occur iteratively, with regular reviews being conducted to ensure the product being developed conforms to the design expectations. To assist in reducing the expectation gap, developers will be included at the wireframing stages of design to ensure the inclusion infeasible technology is limited.
 
 It is intended that a partially complete solution will be implemented by the end of the project. This would qualify as any key component of the application such as the general assistance or social interface being implemented.
-
-<h3>Milestones and dependents</h3>
-
-<b>2017-09-04    Initial system mockups complete</b><br>
-<i>Requirements / Dependents:</i><br>
-Balsamiq Mockups will be used for initial mockups.<br><br>
-
-<b>2017-09-11    Initial interview collection and analysis complete, prototype based testing starting</b><br>
-<i>Requirements / Dependents:</i><br>
-Mockup completed, mockups will support basic interactive prototype driven testing
-Interviews and user testing will be completed on campus.<br><br>
-
-<b>2017-09-25    First iteration of design & wireframe finalised, development of solution starts</b><br>
-<i>Requirements / Dependents:</i><br>
-Several tools may be used for wireframing, with Balsamiq serving as a starting point for development of wireframes.<br><br>
-
-<b>2017-10-04    First iteration of system development and testing completed</b><br>
-<i>Requirements / Dependents:</i><br>
-Will be built using C# and Microsoft Xamarin.
-Interviews and user testing will be completed on campus.<br><br>
 
 Beyond this point due to the iterative nature of the design process, it is difficult to predict how progress will occur. The final goal will be a single component of the application integrated and fully tested, with results analysed.
 
