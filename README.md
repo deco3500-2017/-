@@ -31,7 +31,7 @@
 <tr><td>Luke Giuseppin</td><td>4266448</td><td>Academic Research, Field Research, Website development</td></tr>
 </table>
 <hr>
-<h2>Assessment</h2>
+<h2>TL;DR Assessment</h2>
 <h3>Promitional Material</h3>
 <ul>
   <li><a target="_blank" href="https://github.com/deco3500-2017/-/blob/master/A2-ShowCasePoster.pdf">Showcase Poster</a></li>
@@ -42,10 +42,6 @@
   <li><a target="_blank" href="https://github.com/deco3500-2017/-/blob/master/mockups.pdf">Interactive PDF mockups</a> (not recommended for use over digital prototype)</li>
   <li><a target="_blank" href="http://ml.rft.io">Digital Prototype</a></li>
   </ul>
- <h3>Summary</h3>
- <h3>Process</h3>
- <h3>Who did what</h3>
- 
 <hr>
 <h2>Summary &#x1F415;&#x1F415;&#x1F415;</h2>
 Moonlight is a location based assistance application with the intention of solving the fundamental issues associated with receiving help from unknown parties and establishing trust. The basic application will allow users to request general assistance, reach out to find others to interact with socially, and receive help in emergency situations. The primary dilemma addressed by the application is how to establish a sense of community with others in your area. The app will seek to create and nurture mutually beneficial relationships with these people, without prior establishment of trust.
@@ -103,3 +99,8 @@ Text for the poster can be found at the following link:
 
 <h2>Tags &#x1F425;&#x1F425;&#x1F425;</h2>
 #socialsoftware #socialmoments #persuasivecomputing #contextual #spaceandshape #temporarycommunity #issuebasedcommunity #community
+
+<h2>Who did what</h2>
+<b>Craig</b> was involved in the development of all promotional material, and was responsible for recording observations during user testing. Craig also helped develop the initial interview questions.</br>
+<b>Liam</b> was involved in the software development and mockup creation, and was responsible for conducting interviews and user testing during the term.</br>
+
