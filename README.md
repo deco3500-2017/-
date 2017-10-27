@@ -141,7 +141,7 @@ Work on interviews, prototypes and user testing can be found at the following li
 
 <h2>Showcase Poster</h2>
 Text for the poster can be found at the following link:
-<ul><li><a href="https://github.com/deco3500-2017/-/blob/master/Showcase%20Poster%20Text.md">Showcase Poster Connect</a></li></ul>
+<ul><li><a href="https://github.com/deco3500-2017/-/blob/master/Showcase%20Poster%20Text.md">Showcase Poster Content</a></li></ul>
 <img src="https://github.com/deco3500-2017/-/blob/master/A2-ShowCasePoster.jpg?raw=true" alt="Moonlight Poster for the Showcase"></img>
 
 <h2>Tags &#x1F425;&#x1F425;&#x1F425;</h2>
