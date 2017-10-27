@@ -37,8 +37,6 @@ Moonlight is a location based assistance application with the intention of solvi
 <br>
 There are many times in life when people may feel unsafe, or in need of assistance, and interviews have suggested this occurs quite regularly. In addition, it was also found most of these situations occur when a person is alone, as although all people surveyed had established friends groups, they did not necessarily have constant access to members of this group. The rationale behind the Moonlight app is to alleviate these situations by establishing trusted connections between people in an area, allowing social connections to form, and providing access to assistance when required. 
 
-<h2>Concept &#x1F410;&#x1F410;&#x1F410;</h2>
-
 <h2>Process &#x1F408;&#x1F408;&#x1F408;</h2>
 <h3>Phases</h3>
 The project will be undertaken in four distinct stages.
