@@ -1,5 +1,5 @@
 <h1>Similar Application Analysis</h1>
-The purpose of this document is to research other apps and services that share similarities to Moonlight in terms of functionality, security, and trust. The aim is to leverage the research and experiences (both positive and negative) of other companies in order to ensure that Moolight can provide its users with the best possible service and experience.
+As mentioned in the ReadMe file, research is the first phase in this project. The purpose of this document is to outline all of research that has been made into other apps and services that share similar functionality, security, and trust features. This research is being conducted with the aim being to leverage the research and experiences (both positive and negative) of other companies in order to ensure that Moolight can provide its users with the best possible service and experience.
 
 <h2>Uber</h2>
 <h3>Community Benefits</h3>
@@ -9,7 +9,7 @@ Uber has successfully established itself as an organisation centred around safet
 Uber has made their service accessable 24/7, so they are always available. Furthermore, emphasis is placed on Uber's ability to operate in times of emergency as they are heavily relied upon to transport customers to a safe destination. In addition, Uber utilizes its extensive network of driver partners during times of emergency by using its Uber Partner app to send AMBER alters (child abduction) to all drivers who are online, because in their own words:<br>
 "the more eyes we have on the road, the safer we all are."
 
-<b>conclusions:</b> Uber's focus is clearly on improving the communities in which they operate, not just providing a successful taxi service. This mindset is undoubtedly one of the main driving forces behind the company's success. Similarly, Moonlight will take the approach of improve saftey in the communities in which it is present. Initially the app will focus mostly on connecting members of the community to increase safety and mitigate potentially unsafe situations. However, it is critical to the success of Moonlight as a company that mindset be towards always improving community safety through whatever means possible, not just constrained to providing a successful app based service. That being said, the remainder of this document will focus specifically on functionality, security, and trust critical to the initial success of Moonlight as a mobile application.
+<b>Conclusions:</b> Uber's focus is clearly on improving the communities in which they operate, not just providing a successful taxi service. This mindset is undoubtedly one of the main driving forces behind the company's success. Similarly, Moonlight will take the approach of improving saftey in the communities in which it is present. Initially the app will focus mostly on connecting members of the community to increase safety and mitigate potentially unsafe situations. However, it is critical to the success of Moonlight as a company that mindset be focused towards always improving community safety through whatever means possible, not just constrained to providing a successful app based service. That being said, the remainder of this document will focus specifically on functionality, security, and trust critical to the initial success of Moonlight as a mobile application.
 
 <h3>Driver Safety</h3>
 https://www.uber.com/en-AU/drive/safety/<br>
@@ -52,6 +52,14 @@ Guidelines
 - Safety first
 - Children must be supervised
 - Feedback makes us all better
+
+<b><i> Lessons learnt from Uber:</i></b> Much can be learnt from the way Uber operates, both in terms of functionality and mindset. Similar to Uber, Moonlight will place the safety of its users as the most important goal, always. Functionality to be included in Moonlight:
+- User profiles: all users will be required to include their name, phone number, and a profile picture at a minimum. This will increase security and also enable users to feel more comfortable with those they meet through the app with the removal of anonymity. 
+- In app navigation: both those helping and those receving help will be provided with in app navigation. This will help them to easliy find each other while also collecting GPS data in the Moonlight database as an added security measure. This will act as a deterrant to those who might seek to misuse the app, and in the event that something does go wrong, the information is available to rectify the issue. 
+- Safe pick-ups: the Moonlight app will require the person offering to help to travel to the location of the person who has requested help. This will mean that they are kept safely where they are until help arrives. 
+- Open to everyone: the Moonlight will be available to anyone who would seek to use it. The only requirement is a smartphone with the ability to run the app. 
+- Share ETA/always on the map: the ability to share your ETA or in Moonlight's case, estimate time of completion, and current position is undoubtedly an important and useful security feature. While we will not seek to implement this functionality in the initial prototypes, it is a feature that will be explored and most likely implemented in future iterations.
+- Rapid response: in the event of an urgent situation occuring, users will have the ability to use the emergency function, which will alert all registered users in the area of the persons situation and their location. This will mean they are able to come and help at the touch of a button. 
 
 <h2>AirBnB</h2>
 <h3>Trust</h3>
