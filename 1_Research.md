@@ -152,12 +152,6 @@ https://www.pf.uq.edu.au/unisafe/escorts.html
 UQ does offer security escorts to public transport or a vehicle during darkness.
 
 <h1>Academic Studies</h1>
-<h2>Exploring Trust of Mobile Applications based on user behaviour</h2>
-<br>
-- "Herein, we define a user’s trust in a mobile application as his/her belief onwhether the application could fulfill a task as expected."
-<br>
-- "Trust is important because it helps consum-ers overcome perceptions of uncertainty and risk and engage in "trust-related behaviors”; in short,trust behavior. "
-
 <h2>Building and Establishing Trust &#x1F416;&#x1F416;&#x1F416;</h2>
 Trust as a term came into widespread usage in 1560, defined as an attitude that we have towards others we hope will be trustworthy [1], with trustworthiness being a property expressed by certain people. The definition of trustworthiness varies, from being worthy of confidence or dependable [2], to the quality of always being good, honest, sincere or otherwise [3].
 
@@ -192,9 +186,3 @@ Finally, the requirement that the trustor expects the trustee to have a certain 
 [8] Harvard University, "Risk," Harvard University - The Bridge, [Online]. Available: https://cyber.harvard.edu/bridge/LawEconomics/risk.htm. [Accessed 28 08 2017].<br>
 [9] P. Maj. Lynn Marie Breckenridge, "Curbing the "Helicopter Commander"," Army University Press, 07 2017. [Online]. Available: http://www.armyupress.army.mil/Journals/Military-Review/English-Edition-Archives/July-August-2017/Breckenridge-Curbing-the-Helicopter-Commander/. [Accessed 28 08 2017].<br>
 [10] A. Bandura, "Social-Learning Theory Of Identificatory Processes," in Handbook of Socialization Theory and Research, Stanford, Stanford University, 1969, pp. 213-262.<br>
-
-Yan, Z., Dong, Y., Niemi, V. and Yu, G. (2013), Exploring trust of mobile applications based on user behaviors: an empirical study. J Appl Soc Psychol, 43: 638–659. doi:10.1111/j.1559-1816.2013.01044.x
-<br>
-Ert, Fleischer, & Magen. (2016). Trust and reputation in the sharing economy: The role of personal photos in Airbnb. Tourism Management, 55, 62-73.
-
-Abrahao, B., Parigi, P., Gupta, A., & Cook, K. (2017). Reputation offsets trust judgments based on social biases among Airbnb users. Proceedings of the National Academy of Sciences of the United States of America, Proceedings of the National Academy of Sciences of the United States of America, 28 August 2017.
