@@ -16,81 +16,103 @@ https://www.uber.com/en-AU/drive/safety/<br>
 Uber places a great amount of importance not only onto the rider's safety, but also the safety of the drivers. A number of security/safety mechanisms have been developed to ensure diver safety during every stage of the Uber process (before, during, and after the trip).<br>
 
 <b>Before the Trip</b>
-- No anonymous pickups: all riders are required to create an account and provide their name and phone number as a minimum before they are able to request a ride. They are also able to link social accounts and provide a profile picture of themselves. This way, when a driver is picking up a rider they will know who they are and so will Uber.
-- Substitute phone numbers: in many of the locations in which Uber operates around the world they utilize technology that anonymizes rider and driver phone numbers so that they are able to call and message each other while keeping their personal information private.
+<ul>
+<li>No anonymous pickups: all riders are required to create an account and provide their name and phone number as a minimum before they are able to request a ride. They are also able to link social accounts and provide a profile picture of themselves. This way, when a driver is picking up a rider they will know who they are and so will Uber.</li>
+<li>Substitute phone numbers: in many of the locations in which Uber operates around the world they utilize technology that anonymizes rider and driver phone numbers so that they are able to call and message each other while keeping their personal information private.
+</ul>
 
 <b>During the Trip</b>
-- In-app navigation: the Uber app automates the navigation system. When a rider initially orders an Uber they set the destination, once they are picked up by a driver the Uber app automatically provides turn by turn navigation so that drivers can focus on reaching the destination safely.
-- Always on the map: GPS data from both the driver and rider's mobile devices is logged so that Uber knows who the driver and riders are and where they are going. This promotes accountability and encourages good behaviour. 
+<ul>
+<li>In-app navigation: the Uber app automates the navigation system. When a rider initially orders an Uber they set the destination, once they are picked up by a driver the Uber app automatically provides turn by turn navigation so that drivers can focus on reaching the destination safely.</li>
+<li>Always on the map: GPS data from both the driver and rider's mobile devices is logged so that Uber knows who the driver and riders are and where they are going. This promotes accountability and encourages good behaviour.</li>
+</ul>
 
 <b>After the Trip</b>
-- Automated payments: once a trip is completed, the fare is charged to the rider's selected method of payment (e.g. Paypal), removing both the need to carry cash, and the potential dangers that are associated with it.
+<ul>
+<li>Automated payments: once a trip is completed, the fare is charged to the rider's selected method of payment (e.g. Paypal), removing both the need to carry cash, and the potential dangers that are associated with it.</li>
+</ul>
 
 <h3>Rider Safety</h3>
 https://www.uber.com/en-AU/ride/safety/<br>
 Rider safety is one of Uber's top concerns. To ensure that all riders are safe, a number of security features have been designed to ensure that everyone is kept safe during every phase of the service.<br>
 
 <b>Before the Trip</b>
-- Safe pick-ups: the Uber app automatically finds your location to provide door to door service. Meaning the riders are kept safe wherever they are until their driver arrives.
-- Open to everyone, everywhere: all ride requests are blindly matched with the closest available driver. So there is no discrimination based on race, gender or destination.
-- Driver profiles: when riders are matched with a driver, they are provided with the driver's name, license plate number, photo and rating - so that they know who's picking them up ahead of time. Furthermore, riders are able to contact the driver after the trip if they have left something behind. 
+<ul>
+<li>Safe pick-ups: the Uber app automatically finds your location to provide door to door service. Meaning the riders are kept safe wherever they are until their driver arrives.</li>
+<li>Open to everyone, everywhere: all ride requests are blindly matched with the closest available driver. So there is no discrimination based on race, gender or destination.</li>
+<li>Driver profiles: when riders are matched with a driver, they are provided with the driver's name, license plate number, photo and rating - so that they know who's picking them up ahead of time. Furthermore, riders are able to contact the driver after the trip if they have left something behind. </li>
+</ul>
 
 <b>During the Trip</b>
-- Share ETA: once a rider has been picked up, they have the option to share their ETA with friends and family so they can follow the route and know when to expect their arrival. 
-- Always on the map: riders can follow their trip in real-time so they always know where they are. 
+<ul>
+<li>Share ETA: once a rider has been picked up, they have the option to share their ETA with friends and family so they can follow the route and know when to expect their arrival. </li>
+<li>Always on the map: riders can follow their trip in real-time so they always know where they are. </li>
+</ul>
 
 <b>After the Trip</b>
-- Anonymous feedback: after every trip, riders are given the opportunity to rate the driver and provide anonymous feedback about the ride. Uber reviews all feedback to ensure their goal of making every ride a great experience is achieved.
-- 24/7 support: the Uber support team is available 24/7 to respond to any questions that riders may have about their trip and to help the retrieve any lost items. 
-- Rapid response: Uber's specially-trained response team is available around the clock to handle any urgent concerns.
+<ul>
+<li>Anonymous feedback: after every trip, riders are given the opportunity to rate the driver and provide anonymous feedback about the ride. Uber reviews all feedback to ensure their goal of making every ride a great experience is achieved.</li>
+<li>24/7 support: the Uber support team is available 24/7 to respond to any questions that riders may have about their trip and to help the retrieve any lost items. </li>
+<li>Rapid response: Uber's specially-trained response team is available around the clock to handle any urgent concerns.</li>
+</ul>
 
 <h3>Community Guidelines</h3>
 https://www.uber.com/en-AU/legal/community-guidelines/us-en/
 Guidelines
-- Respect each other
-- Give riders and drivers some personal space
-- Safety first
-- Children must be supervised
-- Feedback makes us all better
+<ul>
+<li>Respect each other</li>
+<li>Give riders and drivers some personal space</li>
+<li>Safety first</li>
+<li>Children must be supervised</li>
+<li>Feedback makes us all better</li>
+</ul>
 
 <h3>Lessons learnt from Uber</h3>
 Much can be learnt from the way Uber operates, both in terms of functionality and mindset. Similar to Uber, Moonlight will place the safety of its users as the most important goal, always. Functionality to be included in Moonlight:
-- User profiles: all users will be required to include their name, phone number, and a profile picture at a minimum. This will increase security and also enable users to feel more comfortable with those they meet through the app with the removal of anonymity. 
-- In app navigation: both those helping and those receving help will be provided with in app navigation. This will help them to easliy find each other while also collecting GPS data in the Moonlight database as an added security measure. This will act as a deterrant to those who might seek to misuse the app, and in the event that something does go wrong, the information is available to rectify the issue. 
-- Safe pick-ups: the Moonlight app will require the person offering to help to travel to the location of the person who has requested help. This will mean that they are kept safely where they are until help arrives. 
-- Open to everyone: the Moonlight will be available to anyone who would seek to use it. The only requirement is a smartphone with the ability to run the app. 
-- Share ETA/always on the map: the ability to share your ETA or in Moonlight's case, estimate time of completion, and current position is undoubtedly an important and useful security feature. While we will not seek to implement this functionality in the initial prototypes, it is a feature that will be explored and most likely implemented in future iterations.
-- Rapid response: in the event of an urgent situation occuring, users will have the ability to use the emergency function, which will alert all registered users in the area of the persons situation and their location. This will mean they are able to come and help at the touch of a button. 
+<ul>
+<li>User profiles: all users will be required to include their name, phone number, and a profile picture at a minimum. This will increase security and also enable users to feel more comfortable with those they meet through the app with the removal of anonymity. </li>
+<li>In app navigation: both those helping and those receving help will be provided with in app navigation. This will help them to easliy find each other while also collecting GPS data in the Moonlight database as an added security measure. This will act as a deterrant to those who might seek to misuse the app, and in the event that something does go wrong, the information is available to rectify the issue. </li>
+<li>Safe pick-ups: the Moonlight app will require the person offering to help to travel to the location of the person who has requested help. This will mean that they are kept safely where they are until help arrives. </li>
+<li>Open to everyone: the Moonlight will be available to anyone who would seek to use it. The only requirement is a smartphone with the ability to run the app. </li>
+<li>Share ETA/always on the map: the ability to share your ETA or in Moonlight's case, estimate time of completion, and current position is undoubtedly an important and useful security feature. While we will not seek to implement this functionality in the initial prototypes, it is a feature that will be explored and most likely implemented in future iterations.</li>
+<li>Rapid response: in the event of an urgent situation occuring, users will have the ability to use the emergency function, which will alert all registered users in the area of the persons situation and their location. This will mean they are able to come and help at the touch of a button.</li>
+</ul>
 
 <h2>AirBnB</h2>
 <h3>Trust</h3>
 https://www.airbnb.com.au/trust
 <b>Features</b>
-- Identification: guests and hosts have the ability to scan and connect a government ID to their Airbnb accounts.
-- Profiles & Reviews: hosts are able to distinguish themselves from the rest by providing detailed, well written profiles and receiving positive, verified reviews.
-- In-App Messaging: users can initially can only contact each other through the Airbnb messaging service. This enables them to ensure that users don't use their platform to find accomodation and then contact the host directly in order to avoid commission. It also ensures that all communication is on file with Airbnb if their is a dispute. 
-- Secure payment platform: all payments are handled through Airbnb's payment platform. Guests pay through Airbnb when they book a listing. Hosts receive payment 24 hours after a guest has checked in.
-- Hosts are covered by insurance: Airbnb protects its hosts with a Host Guarantee of upto $1,000,000 AUD.
-- 24/7 support: world class support is offered around the clock, anywhere in the world. 
+<ul>
+<li>Identification: guests and hosts have the ability to scan and connect a government ID to their Airbnb accounts.</li>
+<li>Profiles & Reviews: hosts are able to distinguish themselves from the rest by providing detailed, well written profiles and receiving positive, verified reviews.</li>
+<li>In-App Messaging: users can initially can only contact each other through the Airbnb messaging service. This enables them to ensure that users don't use their platform to find accomodation and then contact the host directly in order to avoid commission. It also ensures that all communication is on file with Airbnb if their is a dispute.</li> 
+<li>Secure payment platform: all payments are handled through Airbnb's payment platform. Guests pay through Airbnb when they book a listing. Hosts receive payment 24 hours after a guest has checked in.</li>
+<li>Hosts are covered by insurance: Airbnb protects its hosts with a Host Guarantee of upto $1,000,000 AUD.</li>
+<li>24/7 support: world class support is offered around the clock, anywhere in the world. </li>
+</ul>
 
 <h3>Designing for Trust</h3>
 https://airbnb.design/how-airbnb-designs-for-trust/
 <b>Findings</b>
- - Focus isn't on users trusting the company, but on trusting each other
- - "Design" as the mututal friend
- - AirBnB as a facilitator of social interactions
- - First impressions are important (more than half of airbnb customers are first time users at any one time)
+<ul>
+<li>Focus isn't on users trusting the company, but on trusting each other</li>
+<li>"Design" as the mututal friend</li>
+<li>AirBnB as a facilitator of social interactions</li>
+<li>First impressions are important (more than half of airbnb customers are first time users at any one time)</li>
+</ul>
 
 <h3>Standards and Expectations</h3>
 https://www.airbnb.com.au/standards
 
 <h3>Establishing Trust</h3>
 Findings
- - Users place emphasis on host photos when evaluating how trustworthy accomodation is.
- - Users place more weight behind a hosts profile picture, than the ratings of the accomodation.
- - Profile photos are increasingly the deciding factor, when review scores for accomodation options are similar.
- - "Trustworthiness" of photos directly relates to prices of accomodation and likelyhood of being chosen.
- - Users are more likely to trust based on reviews, rather than social biases, even when demographic similarities are a factor.
+<ul>
+<li>Users place emphasis on host photos when evaluating how trustworthy accomodation is.</li>
+<li>Users place more weight behind a hosts profile picture, than the ratings of the accomodation.</li>
+<li>Profile photos are increasingly the deciding factor, when review scores for accomodation options are similar.</li>
+<li>"Trustworthiness" of photos directly relates to prices of accomodation and likelyhood of being chosen.</li>
+<li>Users are more likely to trust based on reviews, rather than social biases, even when demographic similarities are a factor.</li>
+</ul>
 
 <h2>AirTasker</h2>
 <h3>How it Works</h3>
@@ -98,14 +120,15 @@ https://www.airtasker.com/how-it-works/
 AirTasker is perhaps the closest app to Moonlight in terms of the service that it provides. AirTasker allows people to post tasks they would like completed along with a price they would like to pay. Those willing to help (known as Airtaskers) can then bid display their interest in the job, and the person who posted the job selects someone to complete it. 
 <br>
 Features
-- Insurance: AirTask insurance provides covers for the AirTasker worker whilst performing certain activities for liability to third parties for personal or property damage.
-- Customer support: a comprehensive help center is provided for users to search for any help required, with a customer support team available to those users who remain stuck.
-- Ratings and reviews: AirTaskers are reviewed on their performance after each service to ensure that users can select the right person for their job.
-- Communication: AirTasker provides an in-app messaging service to facilitate communication between users. Also included is the ability to make private phone calls through the app.  
-- AirTasker Pay: a secure way to pay via the use of the AirTasker system. Once a job is selected the funds are transferred into a holding account which is then passed along to the AirTasker Worker, once the job is complete. 
+<ul>
+<li>Insurance: AirTask insurance provides covers for the AirTasker worker whilst performing certain activities for liability to third parties for personal or property damage.</li>
+<li>Customer support: a comprehensive help center is provided for users to search for any help required, with a customer support team available to those users who remain stuck.</li>
+<li>Ratings and reviews: AirTaskers are reviewed on their performance after each service to ensure that users can select the right person for their job.</li>
+<li>Communication: AirTasker provides an in-app messaging service to facilitate communication between users. Also included is the ability to make private phone calls through the app.</li>
+<li>AirTasker Pay: a secure way to pay via the use of the AirTasker system. Once a job is selected the funds are transferred into a holding account which is then passed along to the AirTasker Worker, once the job is complete.</li>
+</ul>
 
 <h1>UQ Security & Safety</h1>
-
 As part of the research process, UQ Security was directly contacted with the aim of consultation. Unfortunately, the UQ Security team excused themselves for being unable to dedicate their time to assist in a substantial capacity. However, UQ Security did show the team the variety of online resources that they offer. These resources were useful for the team, as it allowed us to see what concerns UQ Security had in regards to campus safety. As university campuses were a primary use case location for the team, this was particularly relevant.
 
 <h2>UQ Uni Safety</h2>
