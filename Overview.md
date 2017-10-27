@@ -211,6 +211,9 @@ Reception for this feature was overwhelmingly positive, with many testers using,
 
 <h2>Second Round Interviews</h2>
 A second round of interviews were conducted, and this revealed a number of changes that would be required as well as providing valuable insight.
+
+At this stage many of the earlier worries and pain points had already been removed. However, there was still refinement. One particular area of concern expressed by many users was the assistance request "same sex / same nationality" option, which would allow users to request help from someone of the same gender or same nationality. Users stated that they felt uncomfortable with this in the assistance screen. However, users did state that for the 'Helo' / social request, this would be a useful feature.
+
 </br>
 <table>
 <tr><td>
