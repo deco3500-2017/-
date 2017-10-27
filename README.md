@@ -129,6 +129,7 @@ Beyond this point due to the iterative nature of the design process, it is diffi
 Team research may be found at the following link:
 <ul>
   <li><a href="https://github.com/deco3500-2017/-/blob/master/1_Research.md">Research</a></li>
+  <li><a href="https://github.com/deco3500-2017/-/blob/master/Personas.md">Personas</a></li>
   </ul>
 
 <h2>Engagement & Development</h2>
