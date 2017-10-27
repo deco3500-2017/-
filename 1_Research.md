@@ -53,7 +53,8 @@ Guidelines
 - Children must be supervised
 - Feedback makes us all better
 
-<b><i> Lessons learnt from Uber:</i></b> Much can be learnt from the way Uber operates, both in terms of functionality and mindset. Similar to Uber, Moonlight will place the safety of its users as the most important goal, always. Functionality to be included in Moonlight:
+<h3>Lessons learnt from Uber</h3>
+Much can be learnt from the way Uber operates, both in terms of functionality and mindset. Similar to Uber, Moonlight will place the safety of its users as the most important goal, always. Functionality to be included in Moonlight:
 - User profiles: all users will be required to include their name, phone number, and a profile picture at a minimum. This will increase security and also enable users to feel more comfortable with those they meet through the app with the removal of anonymity. 
 - In app navigation: both those helping and those receving help will be provided with in app navigation. This will help them to easliy find each other while also collecting GPS data in the Moonlight database as an added security measure. This will act as a deterrant to those who might seek to misuse the app, and in the event that something does go wrong, the information is available to rectify the issue. 
 - Safe pick-ups: the Moonlight app will require the person offering to help to travel to the location of the person who has requested help. This will mean that they are kept safely where they are until help arrives. 
