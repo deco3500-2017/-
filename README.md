@@ -106,6 +106,7 @@ Text for the poster can be found at the following link:
 <b>Liam</b> was involved in the software development and mockup creation, and was responsible for conducting interviews and user testing during the term.</br>
 <b>Sean</b> was involved in the research of similar applications, and in the research of user trust dynamics involved with "share" based applications. Sean also helped with developing and ideating concepts and ideas that contributed to the overall application design </br>
 <b>Luke</b> was involved in the research of similar applications, field research by interviewing relevant parties, and in the research of peer-reviewed articles. He also developed the promotional website for Moonlight. </br>
+<b>Matt</b> was involved in the research of similar applications, research into how to create and build trust, user interface refinements, and recording observations during user testing.
 
 <h2>Tags &#x1F425;&#x1F425;&#x1F425;</h2>
 #socialsoftware #socialmoments #persuasivecomputing #contextual #spaceandshape #temporarycommunity #issuebasedcommunity #community
