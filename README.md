@@ -14,7 +14,6 @@
 <strong><i>Course:</i>&ensp;&#x1F31F;&ensp;DECO3500 Social & Mobile Computing&ensp;&#x1F31F;</strong><br>
 <strong><i>Link to Prototype:</i>&ensp;&#x1F31F;&ensp;http://ml.rft.io/ &ensp;&#x1F31F;</strong><br>
 <strong><i>Link to Promotional Website:</i>&ensp;&#x1F31F;&ensp;http://moonlight.rft.io/ &ensp;&#x1F31F;</strong><br>
-<strong><i>Link to Informational Poster:</i>&ensp;&#x1F31F;&ensp;https://github.com/deco3500-2017/-/blob/master/Show%20Poster.md &ensp;&#x1F31F;</strong><br>
 <br>
 <table>
 <tr>
@@ -128,7 +127,22 @@ Beyond this point due to the iterative nature of the design process, it is diffi
 
 <h2>Research</h2>
 Team research may be found at the following link:
-https://github.com/deco3500-2017/-/blob/master/1_Research.md
+<ul>
+  <li><a href="https://github.com/deco3500-2017/-/blob/master/1_Research.md">Research</a></li>
+  </ul>
+
+<h2>Engagement & Development</h2>
+Work on interviews, prototypes and user testing can be found at the following links:
+<ul>  
+<li><a href="https://github.com/deco3500-2017/-/blob/master/2_Initial_Interviews_20170822.md">Initial Interviews</a></li>
+<li><a href="https://github.com/deco3500-2017/-/blob/master/3_User_Testing_20170805.md">User Testing</a></li>
+<li><a href="https://github.com/deco3500-2017/-/blob/master/4_High_Fidelity_Prototype_20170919.md">High Fidelity Prototyping</a></li>
+</ul>
+
+<h2>Showcase Poster</h2>
+Text for the poster can be found at the following link:
+<ul><li><a href="https://github.com/deco3500-2017/-/blob/master/Showcase%20Poster%20Text.md">Showcase Poster Connect</a></li></ul>
+<img src="https://github.com/deco3500-2017/-/blob/master/A2-ShowCasePoster.jpg?raw=true" alt="Moonlight Poster for the Showcase"></img>
 
 <h2>Tags &#x1F425;&#x1F425;&#x1F425;</h2>
 #socialsoftware #socialmoments #persuasivecomputing #contextual #spaceandshape #temporarycommunity #issuebasedcommunity #community
