@@ -24,7 +24,7 @@
 <th>Student No.</th>
 <th>Contribution</th>
 </tr>
-<tr><td>Matthew Lovegrove</td><td>4319304</td><td>User Testing, Research</td></tr>
+<tr><td>Matthew Lovegrove</td><td>4319304</td><td>User Testing, Field Research, Academic Research</td></tr>
 <tr><td>Craig Johnson</td><td>4397946</td><td>Graphic Design, Poster Production</td></tr>
 <tr><td>Liam Daly Manocchio</td><td>4390545</td><td>Prototype Development, User Testing</td></tr>
 <tr><td>Sean Mackenzie</td><td>4355285</td><td>Research</td></tr>
