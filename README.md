@@ -32,38 +32,13 @@
 </table>
 <hr>
 <h2>Summary &#x1F415;&#x1F415;&#x1F415;</h2>
-Moonlight is a location based assistance application with the intention of solving the fundamental issues associated with receiving help from unknown parties and establishing trust. The basic application will allow users to request general assistance, reach out to find others to interact with socially, and receive help in emergency situations. 
+Moonlight is a location based assistance application with the intention of solving the fundamental issues associated with receiving help from unknown parties and establishing trust. The basic application will allow users to request general assistance, reach out to find others to interact with socially, and receive help in emergency situations. The primary dilemma addressed by the application is how to establish a sense of community with others in your area. The app will seek to create and nurture mutually beneficial relationships with these people, without prior establishment of trust.
 
-The primary dilemma addressed by the application is how to establish a sense of community with others in your area. The app will seek to create and nurture mutually beneficial relationships with these people, without prior establishment of trust.
+There are many times in life when people may feel unsafe, or in need of assistance, and interviews have suggested this occurs quite regularly. In addition, it was also found most of these situations occur when a person is alone, as although all people surveyed had established friends groups, they did not necessarily have constant access to members of this group. The rationale behind the Moonlight app is to alleviate these situations by establishing trusted connections between people in an area, allowing social connections to form, and providing access to assistance when required. 
 
-In traditional social networks, trust is usually established prior to interaction. This can be a barrier to assimilating location based networks, as interviews have indicated trust can take significant time to develop, preventing the rapid assimilation of location based groups.
-
-Existing applications with the intent of providing assistance such as Airtasker, Gumtree or Upwork share similar functionality, however, there are fundamental differences in the motives behind providing assistance. The applications described above primarily cater to paid service providers, meaning interactions are transactional and do not seek to build a community. Moonlight in contrast is a free service, with the motivation behind providing assistance being driven by sense of community.
-
-The primary differentiating function of Moonlight is the trust mark and connections components. The trust mark allows users of the application to verify, and be verified by other users as trustworthy. A rating system after each encounter will ensure only trustworthy people maintain their trust mark. 
-
-The second differentiating component of Moonlight is the connections system. This allows helpers and helpees to connect again if they felt a connection, in a social or professional capacity. This promotes better communities, and research has shown giving and receiving help can aid in the establishment of trust. This provides a novel means of establishing networks, and adds motivation to using the application as a helper. 
-
-This document aims to outline the goals and procedure our team plans to implement in developing a prototype of the Moonlight application.
+The primary differentiating function of Moonlight is the trust mark and connections components. The trust mark allows users of the application to verify, and be verified by other users as trustworthy. A rating system after each encounter will ensure only trustworthy people maintain their trust mark. The second differentiating component of Moonlight is the connections system. This allows helpers and helpees to connect again if they felt a connection, in a social or professional capacity. This promotes better communities, and research has shown giving and receiving help can aid in the establishment of trust. This provides a novel means of establishing networks, and adds motivation to using the application as a helper. 
 
 <h2>Concept &#x1F410;&#x1F410;&#x1F410;</h2>
-<h3>Rationale</h3>
-There are many times in life when people may feel unsafe, or in need of assistance, and interviews have suggested this occurs quite regularly. In addition, it was also found most of these situations occur when a person is alone, as although all people surveyed had established friends groups, they did not necessarily have constant access to members of this group. 
-
-The rationale behind the Moonlight app is to alleviate these situations by establishing trusted connections between people in an area, allowing social connections to form, and providing access to assistance when required. 
-
-Furthermore, in populated areas it is unlikely a person will be geospatially alone, if a trusted connection could be established between people in an area, it would strengthen the community as a whole by promoting inter-personal interactions. 
-
-Have you ever required help with something simple, such as walking to your car at night, or maybe wanting someone to go to the gym with, but your friends aren’t available? This is the rationale behind the Moonlight app. We aim to connect members of the community with each other to alleviate these trivial, everyday problems. An all too familiar scenario is how our friends/family always seem to be busy when we require assistance, while someone who is ready to help may be just a house away. This is the fundamental issue that we aim to resolve.
-
-<h3>Aims</h3>
-Our aims for the Moonlight app from the outset are to build trust with users, build trust between users and ultimately eradicate the issues that are described above. One of the main issues that will be faced during development of the app is to ensure the safety of the users, it is imperative to our success and our values that we do not create a system capable of being exploited for malicious reasons.
-
-Building trust between users and the Moonlight app will be one of the main challenges faced and it will be imperative to the success of the app. Our system is one that has great potential to solve a very real, very common problem for many people, however in order to accomplish this, the users must first trust that the app can deliver on its promise. The establishment of trust is discussed further in this document in the “Building and Establishing Trust” section.
-
-Once trust has been established between users and the Moonlight app, we will need to overcome the next challenge. This is to ensure that Moonlight successfully facilitates connecting helpers and helpees to accomplish their goals. Users will need to feel confident and comfortable that the person they are connecting with is able to assist them with their issue and that they are there for the right reasons. 
-
-Finally, once trust has been established between users and the app, and users with each other, the last objective  is to ensure that users are receiving the assistance they require. This means that the people who are volunteering to help are enabling the helpees to accomplish their tasks. This will be crucial to ensuring that Moonlight receives repeat users. 
 
 <h3>Audience</h3>
 The audience for the Moonlight app is wide, targeting all technologically active persons. Due to the nature of mobile application use, it is expected a large subset of the user base will consist of 18-30 year olds. In addition, to aid with scoping the application, it will initially be targeted at Australian undergraduate university students, although this target could easily be expanded. Moonlight aims to create more cohesive, helpful communities and therefore the larger and more diverse the user base, the better level of support it can offer.
