@@ -51,7 +51,7 @@ There are many times in life when people may feel unsafe, or in need of assistan
 
 <h2>Process &#x1F408;&#x1F408;&#x1F408;</h2>
 </hr>
-<b>For a full in depth design process overview check out <a href="https://github.com/deco3500-2017/-/blob/master/Overview.md">Overview.md</a> which is an in depth summary of most of the design decisions made during the semester.
+<b>For a full in depth design process overview check out <a href="https://github.com/deco3500-2017/-/blob/master/Overview.md">Overview.md</a> which is an in depth summary of most of the design decisions made during the semester.</b>
 </hr>
 <h3>Phases</h3>
 The project will be undertaken in four distinct stages.
