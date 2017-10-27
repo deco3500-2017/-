@@ -100,8 +100,6 @@ Text for the poster can be found at the following link:
 <ul><li><a href="https://github.com/deco3500-2017/-/blob/master/Showcase%20Poster%20Text.md">Showcase Poster Content</a></li></ul>
 <img src="https://github.com/deco3500-2017/-/blob/master/A2-ShowCasePoster.jpg?raw=true" alt="Moonlight Poster for the Showcase"></img>
 
-<h2>Tags &#x1F425;&#x1F425;&#x1F425;</h2>
-#socialsoftware #socialmoments #persuasivecomputing #contextual #spaceandshape #temporarycommunity #issuebasedcommunity #community
 
 <h2>Who did what</h2>
 <b>Craig</b> was involved in the development of all promotional material, and was responsible for recording observations during user testing. Craig also helped develop the initial interview questions.</br>
@@ -109,3 +107,5 @@ Text for the poster can be found at the following link:
 <b>Sean</b> was involved in the research of similar applications, and in the research of user trust dynamics involved with "share" based applications. Sean also helped with developing and ideating concepts and ideas that contributed to the overall application design </br>
 <b>Luke</b> was involved in the research of similar applications, field research by interviewing relevant parties, and in the research of peer-reviewed articles. He also developed the promotional website for Moonlight. </br>
 
+<h2>Tags &#x1F425;&#x1F425;&#x1F425;</h2>
+#socialsoftware #socialmoments #persuasivecomputing #contextual #spaceandshape #temporarycommunity #issuebasedcommunity #community
