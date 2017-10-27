@@ -39,18 +39,6 @@ There are many times in life when people may feel unsafe, or in need of assistan
 
 <h2>Concept &#x1F410;&#x1F410;&#x1F410;</h2>
 
-<h3>Audience</h3>
-The audience for the Moonlight app is wide, targeting all technologically active persons. Due to the nature of mobile application use, it is expected a large subset of the user base will consist of 18-30 year olds. In addition, to aid with scoping the application, it will initially be targeted at Australian undergraduate university students, although this target could easily be expanded. Moonlight aims to create more cohesive, helpful communities and therefore the larger and more diverse the user base, the better level of support it can offer.
-
-Research into defining are more precise demographic will assist in understanding the users better. The focused user base can fall within a range of areas from early 20’s sociable females to mid 30’s apartment residents who needs assistance. Research into how users would use this assistance application can help determine the direction of development.
-
-<h3>Differences from other offerings</h3>
-Our app separates itself from other similar applications in several ways. Firstly, one of our app’s main focuses is to cultivate a sense of security and comfort in our users. We would like to connect those who feel unsafe or alone with others who are able to provide assistance and comfort those users. This specific tailoring of our application to safety should facilitate the development of trust.
-
-In addition, our application also focuses on sense of community, with emphasis placed on maintaining connections after interacting through Moonlight. Other assistance applications being transactional do not directly facilitate the building of more integrated communities. Our application also offers social requests, directly supporting reaching out to people, which is a unique feature in the assistance application market. 
-
-Finally, many other assistance applications cater to paid service providers, and as such, due to their transactional nature, do not encourage building connections.  Our application is a free community based service, ensuring the motivations behind using the application are inline with building positive communities. 
-
 <h2>Process &#x1F408;&#x1F408;&#x1F408;</h2>
 <h3>Phases</h3>
 The project will be undertaken in four distinct stages.
